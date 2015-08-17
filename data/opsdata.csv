@@ -1,0 +1,1083 @@
+id,created,status,title,PI_name,FundingType,Application,HoursLogged,DaysOpen
+1,7/24/2014 11:32,Closed,Project 44,Elvis Daniels,JIT,BioMS,17.92299503,7.47949398
+2,8/15/2014 9:52,Closed,Project 330,Scott Lott,JIT,BioMS,11.49842496,5.370171321
+3,9/4/2014 12:30,Closed,Project 470,Cassidy Griffith,JIT,BioMS,27.3313755,8.79223154
+4,3/12/2014 10:51,Closed,Project 477,Mollie Chang,JIT,BioMS,15.24613715,7.429801051
+5,3/18/2014 11:43,Closed,Project 478,Mollie Chang,JIT,BioMS,26.84965655,8.295873424
+6,3/19/2014 10:47,Closed,Project 479,Mollie Chang,JIT,BioMS,36.15685494,9.487133383
+7,3/20/2014 10:23,Closed,Project 480,Mollie Chang,JIT,BioMS,7.416296809,4.869159224
+8,3/21/2014 11:32,Closed,Project 481,Mollie Chang,JIT,BioMS,19.97715544,8.279739616
+9,3/24/2014 10:05,Closed,Project 482,Mollie Chang,JIT,BioMS,0.36016923,5.059073169
+10,3/31/2014 13:24,Closed,Project 483,Mollie Chang,JIT,BioMS,24.63871795,9.837744825
+11,4/3/2014 12:03,Closed,Project 484,Mollie Chang,JIT,BioMS,25.77540638,8.52584083
+12,4/3/2014 12:06,Closed,Project 485,Mollie Chang,JIT,BioMS,23.14415009,5.188769414
+13,4/9/2014 13:04,Closed,Project 486,Mollie Chang,JIT,BioMS,26.47826164,9.028524047
+14,4/16/2014 11:39,Closed,Project 487,Mollie Chang,JIT,BioMS,36.24991757,6.176390469
+15,4/16/2014 11:41,Closed,Project 488,Mollie Chang,JIT,BioMS,7.765695546,5.684753678
+16,5/6/2014 10:32,Closed,Project 489,Mollie Chang,JIT,BioMS,2.872490714,6.811518797
+17,5/6/2014 11:24,Closed,Project 490,Mollie Chang,JIT,BioMS,5.585869369,6.066489654
+18,5/7/2014 9:38,Closed,Project 491,Mollie Chang,JIT,BioMS,2.437542673,4.371793685
+19,5/12/2014 10:26,Closed,Project 492,Mollie Chang,JIT,BioMS,23.7943104,8.146817491
+20,5/12/2014 16:38,Closed,Project 493,Mollie Chang,JIT,BioMS,7.620082274,6.360709926
+21,5/12/2014 16:40,Closed,Project 494,Mollie Chang,JIT,BioMS,7.044356244,7.60599952
+22,5/13/2014 12:35,Closed,Project 495,Mollie Chang,JIT,BioMS,23.077631,7.367751647
+23,5/14/2014 14:35,Closed,Project 496,Mollie Chang,JIT,BioMS,25.14254711,7.702440318
+24,5/20/2014 14:59,Closed,Project 497,Mollie Chang,JIT,BioMS,12.66051602,7.248883466
+25,6/3/2014 9:49,Closed,Project 498,Mollie Chang,Department Funds,BioMS,26.65971023,9.536697078
+26,6/17/2014 11:38,Closed,Project 499,Mollie Chang,Department Funds,BioMS,12.73732754,6.269289729
+27,6/18/2014 9:56,Closed,Project 500,Mollie Chang,Department Funds,BioMS,18.77671497,6.184981406
+28,6/18/2014 10:52,Closed,Project 501,Mollie Chang,Department Funds,BioMS,27.2495252,7.386643245
+29,6/19/2014 9:26,Closed,Project 502,Mollie Chang,Department Funds,BioMS,7.546980966,4.87431414
+30,6/23/2014 13:21,Closed,Project 503,Mollie Chang,Department Funds,BioMS,13.47319544,6.313018582
+31,6/25/2014 14:46,Closed,Project 504,Mollie Chang,Department Funds,BioMS,23.13763704,6.661501212
+32,7/7/2014 10:57,Closed,Project 505,Mollie Chang,Department Funds,BioMS,17.52742236,7.099939665
+33,7/8/2014 10:45,Closed,Project 506,Mollie Chang,Department Funds,BioMS,6.68063726,6.439704799
+34,7/9/2014 13:39,Closed,Project 507,Mollie Chang,Department Funds,BioMS,16.98639235,6.931396508
+35,7/10/2014 16:25,Closed,Project 508,Mollie Chang,Department Funds,BioMS,13.43296899,6.797231906
+36,7/11/2014 13:43,Closed,Project 509,Mollie Chang,Department Funds,BioMS,20.86200849,7.260263931
+37,7/11/2014 14:11,Closed,Project 510,Mollie Chang,Department Funds,BioMS,51.01729413,10.68166913
+38,7/11/2014 15:27,Closed,Project 511,Mollie Chang,Department Funds,BioMS,18.45108816,5.876903926
+39,7/11/2014 15:27,Closed,Project 512,Mollie Chang,Department Funds,BioMS,25.72243244,7.377294324
+40,7/14/2014 8:43,Closed,Project 513,Mollie Chang,Department Funds,BioMS,14.35119346,5.358035185
+41,7/14/2014 8:53,Closed,Project 514,Mollie Chang,Department Funds,BioMS,7.164929326,6.728589061
+42,7/14/2014 9:57,Closed,Project 515,Mollie Chang,Department Funds,BioMS,9.5263481,6.508125808
+43,7/14/2014 10:19,Closed,Project 516,Mollie Chang,Department Funds,BioMS,17.43875788,8.068112461
+44,7/14/2014 11:25,Closed,Project 517,Mollie Chang,Department Funds,BioMS,0.588401682,5.05375082
+45,7/14/2014 12:51,Closed,Project 518,Mollie Chang,Department Funds,BioMS,22.01689519,9.342395445
+46,7/14/2014 13:29,Closed,Project 519,Mollie Chang,Department Funds,BioMS,15.86355828,6.129066523
+47,7/14/2014 13:37,Closed,Project 520,Mollie Chang,Department Funds,BioMS,3.665768148,3.892970112
+48,7/14/2014 14:05,Closed,Project 521,Mollie Chang,Department Funds,BioMS,28.74092471,10.54841523
+49,7/14/2014 15:47,Closed,Project 522,Mollie Chang,Department Funds,BioMS,1.097311783,5.078004933
+50,7/14/2014 16:02,Closed,Project 523,Mollie Chang,Department Funds,BioMS,17.25569293,6.984800689
+51,7/14/2014 16:29,Closed,Project 524,Mollie Chang,Department Funds,BioMS,1.586198034,6.458824785
+52,7/15/2014 8:59,Closed,Project 525,Mollie Chang,Department Funds,BioMS,29.26603883,9.70415972
+53,7/15/2014 9:17,Closed,Project 526,Mollie Chang,Department Funds,BioMS,14.27639155,9.071301305
+54,7/15/2014 10:08,Closed,Project 527,Mollie Chang,Department Funds,BioMS,28.30379826,8.633021734
+55,7/15/2014 10:55,Closed,Project 528,Mollie Chang,Department Funds,BioMS,17.41003478,8.411678538
+56,7/15/2014 11:09,Closed,Project 529,Mollie Chang,Department Funds,BioMS,12.80174478,6.086224007
+57,7/15/2014 11:21,Closed,Project 530,Mollie Chang,Department Funds,BioMS,2.936382077,5.136566326
+58,7/15/2014 11:36,Closed,Project 531,Mollie Chang,Department Funds,BioMS,11.21224805,5.314381451
+59,7/15/2014 11:59,Closed,Project 532,Mollie Chang,Department Funds,BioMS,16.32344463,7.750813795
+60,7/15/2014 12:08,Closed,Project 533,Mollie Chang,Department Funds,BioMS,11.62535852,9.120496948
+61,7/15/2014 13:23,Closed,Project 534,Mollie Chang,NA,BioMS,10.65075715,6.56530886
+62,7/15/2014 13:29,Closed,Project 535,Mollie Chang,NA,BioMS,0.313988807,6.101972966
+63,7/15/2014 13:31,Closed,Project 536,Mollie Chang,NA,BioMS,20.18671797,6.624479376
+64,7/15/2014 13:33,Closed,Project 537,Mollie Chang,NA,BioMS,11.499026,8.157759436
+65,7/15/2014 16:17,Closed,Project 538,Mollie Chang,NA,BioMS,9.617882714,5.61538859
+66,7/15/2014 16:29,Closed,Project 539,Mollie Chang,NA,BioMS,17.07418499,7.81593246
+67,7/15/2014 16:48,Closed,Project 540,Mollie Chang,NA,BioMS,17.95593997,7.20401311
+68,7/16/2014 8:54,Closed,Project 541,Mollie Chang,NA,BioMS,31.67703632,9.128947454
+69,7/16/2014 9:34,Closed,Project 542,Mollie Chang,NA,BioMS,24.84574245,6.127605941
+70,7/16/2014 9:34,Closed,Project 543,Mollie Chang,NA,BioMS,8.577704968,5.68399055
+71,7/16/2014 10:30,In Progress,Project 544,Mollie Chang,NA,BioMS,11.73410944,6.005812387
+72,7/16/2014 12:20,Closed,Project 545,Mollie Chang,NA,BioMS,38.86784565,9.241898594
+73,7/16/2014 12:30,Closed,Project 546,Mollie Chang,NA,BioMS,15.83486496,6.924408566
+74,7/16/2014 13:00,Closed,Project 547,Mollie Chang,NA,BioMS,13.54286941,5.464245721
+75,7/16/2014 13:04,Closed,Project 548,Mollie Chang,NA,BioMS,23.32685326,9.200879753
+76,7/16/2014 15:14,Closed,Project 549,Mollie Chang,NA,BioMS,21.29345251,7.619797006
+77,7/16/2014 16:28,Closed,Project 550,Mollie Chang,NA,BioMS,2.434246763,5.040593795
+78,7/17/2014 9:46,Closed,Project 551,Mollie Chang,NA,BioMS,22.65020439,8.163424549
+79,7/17/2014 10:38,Closed,Project 552,Mollie Chang,NA,BioMS,0.475466402,5.652593912
+80,7/17/2014 11:36,Closed,Project 553,Mollie Chang,NA,BioMS,16.18706455,6.267824335
+81,7/17/2014 11:44,Closed,Project 554,Mollie Chang,NA,BioMS,20.56237811,6.925526018
+82,7/17/2014 13:26,Closed,Project 555,Mollie Chang,NA,BioMS,8.290054113,5.394067146
+83,7/17/2014 13:29,Closed,Project 556,Mollie Chang,NA,BioMS,16.11513898,8.303605402
+84,7/17/2014 13:35,Closed,Project 557,Mollie Chang,NA,BioMS,16.43991446,8.899234213
+85,7/17/2014 15:02,Closed,Project 558,Mollie Chang,NA,BioMS,3.335084329,5.181605257
+86,7/17/2014 15:46,Closed,Project 559,Mollie Chang,NA,BioMS,33.83716769,6.811234916
+87,7/17/2014 16:18,Closed,Project 560,Mollie Chang,NA,BioMS,19.70887084,8.550205592
+88,7/18/2014 8:50,Closed,Project 561,Mollie Chang,NA,BioMS,14.7587218,4.707486774
+89,7/18/2014 8:52,Closed,Project 562,Mollie Chang,JIT,BioMS,21.16323632,6.680536932
+90,7/18/2014 9:01,Closed,Project 563,Mollie Chang,JIT,BioMS,11.25350277,6.890787846
+91,7/18/2014 12:34,Closed,Project 564,Mollie Chang,JIT,BioMS,14.15261374,5.960100686
+92,7/18/2014 12:44,Closed,Project 565,Mollie Chang,JIT,BioMS,5.557285675,3.977960219
+93,7/18/2014 14:04,Closed,Project 566,Mollie Chang,JIT,BioMS,20.35307382,8.13149795
+94,7/21/2014 9:36,Closed,Project 567,Mollie Chang,JIT,BioMS,8.729549378,4.833378235
+95,7/21/2014 11:42,Closed,Project 568,Mollie Chang,JIT,BioMS,16.11266892,8.351985209
+96,7/21/2014 12:50,Closed,Project 569,Mollie Chang,JIT,BioMS,22.3919,8.591048791
+97,7/21/2014 13:02,Closed,Project 570,Mollie Chang,JIT,BioMS,5.368050205,5.288039902
+98,7/21/2014 16:43,Closed,Project 571,Mollie Chang,JIT,BioMS,4.694842088,4.724692413
+99,7/22/2014 9:43,Closed,Project 572,Mollie Chang,JIT,BioMS,21.47957354,7.92274111
+100,7/22/2014 9:48,Resolved,Project 573,Mollie Chang,JIT,BioMS,23.09098915,6.43106858
+101,7/22/2014 9:55,Closed,Project 574,Mollie Chang,JIT,BioMS,3.673735211,5.502294941
+102,7/22/2014 11:00,Closed,Project 575,Mollie Chang,JIT,BioMS,9.612510069,4.988054012
+103,7/22/2014 13:30,Closed,Project 576,Mollie Chang,JIT,BioMS,18.09052583,7.10905721
+104,7/22/2014 13:54,Closed,Project 577,Mollie Chang,JIT,BioMS,23.00023847,7.378349334
+105,7/22/2014 14:36,Closed,Project 578,Mollie Chang,JIT,BioMS,24.16029661,8.176152386
+106,7/23/2014 8:30,Closed,Project 579,Mollie Chang,JIT,BioMS,21.90983113,5.953888425
+107,7/23/2014 8:57,Closed,Project 580,Mollie Chang,JIT,BioMS,30.6099028,8.91406889
+108,7/23/2014 11:06,Closed,Project 581,Mollie Chang,JIT,BioMS,29.74535896,9.047438768
+109,7/23/2014 12:14,Closed,Project 582,Mollie Chang,JIT,BioMS,6.95285703,5.635251448
+110,7/23/2014 12:36,Closed,Project 583,Mollie Chang,JIT,BioMS,37.7786805,9.252435594
+111,7/23/2014 14:52,Closed,Project 584,Mollie Chang,JIT,BioMS,14.74057222,4.462574293
+112,7/24/2014 8:56,Closed,Project 585,Mollie Chang,JIT,BioMS,30.01500193,8.940369076
+113,7/24/2014 14:28,Closed,Project 586,Mollie Chang,Department Funds,BioMS,10.74017146,4.865067615
+114,7/24/2014 14:37,Closed,Project 587,Mollie Chang,Department Funds,BioMS,28.4908077,7.196757983
+115,7/24/2014 15:48,Closed,Project 588,Mollie Chang,Department Funds,BioMS,15.74498484,7.099938765
+116,7/24/2014 16:38,Closed,Project 589,Mollie Chang,Department Funds,BioMS,14.74760503,7.024863859
+117,7/25/2014 10:44,Closed,Project 590,Mollie Chang,Department Funds,BioMS,18.73838712,6.429098577
+118,7/25/2014 11:20,Closed,Project 591,Mollie Chang,Department Funds,BioMS,10.14123045,7.387233691
+119,7/25/2014 14:08,Resolved,Project 592,Mollie Chang,Department Funds,BioMS,5.800049143,7.132271188
+120,7/28/2014 10:22,Closed,Project 593,Mollie Chang,Department Funds,BioMS,15.29746737,6.815866773
+121,7/28/2014 12:52,Closed,Project 594,Mollie Chang,Department Funds,BioMS,0.168764466,5.121839275
+122,7/28/2014 13:02,Closed,Project 595,Mollie Chang,Department Funds,BioMS,15.99738119,6.416136315
+123,7/28/2014 13:54,Resolved,Project 596,Mollie Chang,Department Funds,BioMS,19.16355079,7.0989164
+124,7/29/2014 11:12,Closed,Project 597,Mollie Chang,Department Funds,BioMS,15.77413208,7.746904992
+125,7/29/2014 11:57,Closed,Project 598,Mollie Chang,Department Funds,BioMS,0.97222364,3.588017781
+126,7/29/2014 12:24,Closed,Project 599,Mollie Chang,Department Funds,BioMS,11.74636027,6.39429519
+127,7/29/2014 13:08,Closed,Project 600,Mollie Chang,Department Funds,BioMS,29.06835357,8.846206029
+128,7/29/2014 13:18,Closed,Project 601,Mollie Chang,Department Funds,BioMS,1.1532972,4.674172147
+129,7/29/2014 13:36,Closed,Project 602,Mollie Chang,Department Funds,BioMS,8.40025986,5.815130949
+130,7/29/2014 14:40,Closed,Project 603,Mollie Chang,Department Funds,BioMS,5.990258975,5.718100661
+131,7/29/2014 16:46,Closed,Project 604,Mollie Chang,Department Funds,BioMS,10.8598837,7.8106782
+132,7/30/2014 13:20,Closed,Project 605,Mollie Chang,Department Funds,BioMS,13.81354531,6.867346558
+133,7/30/2014 13:38,Resolved,Project 606,Mollie Chang,Department Funds,BioMS,2.734035482,4.996724976
+134,7/30/2014 14:16,Closed,Project 607,Mollie Chang,Department Funds,BioMS,5.816811598,4.124294825
+135,7/30/2014 15:03,Closed,Project 608,Mollie Chang,Department Funds,BioMS,7.106312113,3.161943396
+136,7/30/2014 16:13,Closed,Project 609,Mollie Chang,Department Funds,BioMS,0.69374479,4.559984479
+137,7/30/2014 16:36,Closed,Project 610,Mollie Chang,Department Funds,BioMS,7.366212895,7.056949595
+138,7/30/2014 16:37,Closed,Project 611,Mollie Chang,Department Funds,BioMS,3.72259219,5.648886887
+139,7/30/2014 16:51,Closed,Project 612,Mollie Chang,Department Funds,BioMS,14.94783989,5.364538972
+140,7/31/2014 13:08,Closed,Project 613,Mollie Chang,Department Funds,BioMS,7.449207799,7.405543452
+141,7/31/2014 14:55,Closed,Project 614,Mollie Chang,Department Funds,BioMS,1.530408925,5.887418722
+142,7/31/2014 15:26,Closed,Project 615,Mollie Chang,Department Funds,BioMS,13.07921554,6.89635146
+143,8/1/2014 9:01,Closed,Project 616,Mollie Chang,Department Funds,BioMS,15.85500764,7.736553983
+144,8/1/2014 14:54,Closed,Project 617,Mollie Chang,Department Funds,BioMS,15.77388897,5.198227112
+145,8/4/2014 10:15,Closed,Project 618,Mollie Chang,Department Funds,BioMS,28.79559904,10.06126158
+146,8/4/2014 10:34,Closed,Project 619,Mollie Chang,Department Funds,BioMS,17.73429895,8.012782537
+147,8/4/2014 10:50,Closed,Project 620,Mollie Chang,Department Funds,BioMS,4.124836803,4.741890302
+148,8/4/2014 10:52,Closed,Project 621,Mollie Chang,Department Funds,BioMS,21.06251779,7.39824783
+149,8/4/2014 10:55,Closed,Project 622,Mollie Chang,Department Funds,BioMS,21.3221845,7.418177267
+150,8/4/2014 11:08,Closed,Project 623,Mollie Chang,Department Funds,BioMS,13.30923233,6.005234302
+151,8/4/2014 11:22,Closed,Project 624,Mollie Chang,Department Funds,BioMS,6.585820755,5.431107648
+152,8/4/2014 12:52,Closed,Project 625,Mollie Chang,Department Funds,BioMS,15.63529739,6.607529404
+153,8/4/2014 14:04,Closed,Project 626,Mollie Chang,Department Funds,BioMS,4.65223146,4.752268994
+154,8/4/2014 14:04,Closed,Project 627,Mollie Chang,Department Funds,BioMS,32.53350989,9.440242022
+155,8/5/2014 9:10,Closed,Project 628,Mollie Chang,Department Funds,BioMS,14.34639616,6.96134307
+156,8/5/2014 11:00,Closed,Project 629,Mollie Chang,Department Funds,BioMS,27.17664518,8.859274068
+157,8/5/2014 12:46,Closed,Project 630,Mollie Chang,Department Funds,BioMS,15.65410719,7.368005999
+158,8/5/2014 12:48,Closed,Project 631,Mollie Chang,JIT,BioMS,13.86310424,6.600287882
+159,8/5/2014 14:33,Closed,Project 632,Mollie Chang,JIT,BioMS,9.697732591,6.903908836
+160,8/5/2014 15:38,Closed,Project 633,Mollie Chang,JIT,BioMS,13.04962924,6.771361777
+161,8/5/2014 15:56,Closed,Project 634,Mollie Chang,JIT,BioMS,28.45293184,7.195344845
+162,8/6/2014 9:00,Closed,Project 635,Mollie Chang,JIT,BioMS,2.495622536,5.609053278
+163,8/6/2014 9:33,Closed,Project 636,Mollie Chang,JIT,BioMS,2.025836275,5.337583811
+164,8/6/2014 9:39,Closed,Project 637,Mollie Chang,JIT,BioMS,15.18316419,6.182861102
+165,8/6/2014 11:24,Closed,Project 638,Mollie Chang,JIT,BioMS,19.90296149,6.537748975
+166,8/6/2014 12:16,Closed,Project 639,Mollie Chang,JIT,BioMS,6.944082692,6.554320096
+167,8/6/2014 13:22,Closed,Project 640,Mollie Chang,JIT,BioMS,7.566386712,5.328845995
+168,8/6/2014 17:28,Closed,Project 641,Mollie Chang,JIT,BioMS,30.26060229,9.109607682
+169,8/6/2014 17:28,Closed,Project 642,Mollie Chang,JIT,BioMS,14.5769548,7.30477429
+170,8/7/2014 9:20,Closed,Project 643,Mollie Chang,JIT,BioMS,21.1647613,7.992381513
+171,8/7/2014 13:43,Closed,Project 644,Mollie Chang,JIT,BioMS,11.71647358,5.845255826
+172,8/7/2014 14:16,Closed,Project 645,Mollie Chang,JIT,BioMS,22.63954621,7.33725509
+173,8/8/2014 10:45,Closed,Project 646,Mollie Chang,JIT,BioMS,14.62121002,8.19464951
+174,8/8/2014 17:03,Closed,Project 647,Mollie Chang,JIT,BioMS,23.67927086,7.300484789
+175,8/8/2014 17:06,Closed,Project 648,Mollie Chang,JIT,BioMS,7.826093167,5.383726892
+176,8/8/2014 17:09,Closed,Project 649,Mollie Chang,JIT,BioMS,28.43529108,10.08895577
+177,8/12/2014 9:15,Closed,Project 650,Mollie Chang,JIT,BioMS,24.65667327,9.975801316
+178,8/12/2014 9:18,Closed,Project 651,Mollie Chang,JIT,BioMS,21.65293274,7.112609215
+179,8/12/2014 9:28,Closed,Project 652,Mollie Chang,JIT,BioMS,18.93949299,6.638326962
+180,8/12/2014 9:28,Closed,Project 653,Mollie Chang,JIT,BioMS,22.20010691,9.542404956
+181,8/12/2014 9:28,Closed,Project 654,Mollie Chang,JIT,BioMS,6.771424965,6.426320356
+182,8/12/2014 10:17,Closed,Project 655,Mollie Chang,Department Funds,BioMS,26.8484855,7.959877943
+183,8/12/2014 13:38,Closed,Project 656,Mollie Chang,Department Funds,BioMS,0.7553713,5.700098943
+184,8/12/2014 16:06,Closed,Project 657,Mollie Chang,Department Funds,BioMS,14.01682017,7.523857962
+185,8/12/2014 16:08,Closed,Project 658,Mollie Chang,Department Funds,BioMS,10.39221762,6.697056897
+186,8/12/2014 16:34,Closed,Project 659,Mollie Chang,Department Funds,BioMS,27.33726998,7.896364385
+187,8/12/2014 16:36,Closed,Project 660,Mollie Chang,Department Funds,BioMS,1.759629561,7.014249764
+188,8/13/2014 9:58,Closed,Project 661,Mollie Chang,Department Funds,BioMS,21.14237696,8.963722385
+189,8/13/2014 12:43,Closed,Project 662,Mollie Chang,Department Funds,BioMS,8.989990837,4.526326154
+190,8/13/2014 15:43,Closed,Project 663,Mollie Chang,Department Funds,BioMS,0.816426116,4.93325208
+191,8/14/2014 8:58,Closed,Project 664,Mollie Chang,Department Funds,BioMS,16.91521746,6.490700399
+192,8/14/2014 9:52,Closed,Project 665,Mollie Chang,Department Funds,BioMS,26.74754306,8.582411047
+193,8/14/2014 11:58,Closed,Project 666,Mollie Chang,Department Funds,BioMS,19.88146782,7.396708075
+194,8/14/2014 13:44,Closed,Project 667,Mollie Chang,Department Funds,BioMS,21.18878435,8.50197536
+195,8/14/2014 14:08,Closed,Project 668,Mollie Chang,Department Funds,BioMS,24.8211128,7.984550536
+196,8/14/2014 14:48,Closed,Project 669,Mollie Chang,Department Funds,BioMS,24.99454536,7.282072095
+197,8/14/2014 15:52,Closed,Project 670,Mollie Chang,Department Funds,BioMS,12.9401669,5.676117638
+198,8/14/2014 16:22,Closed,Project 671,Mollie Chang,Department Funds,BioMS,9.77774182,5.779215559
+199,8/15/2014 10:42,Closed,Project 672,Mollie Chang,Department Funds,BioMS,21.48838246,6.97752295
+200,8/15/2014 11:16,Closed,Project 673,Mollie Chang,Department Funds,BioMS,12.21531523,6.778230647
+201,8/15/2014 15:52,Closed,Project 674,Mollie Chang,Department Funds,BioMS,6.669357042,7.108109889
+202,8/18/2014 9:00,Closed,Project 675,Mollie Chang,Department Funds,BioMS,19.6458977,8.211053415
+203,8/18/2014 9:42,Closed,Project 676,Mollie Chang,Department Funds,BioMS,17.92088311,9.166353581
+204,8/18/2014 9:54,Closed,Project 677,Mollie Chang,Department Funds,BioMS,12.27888879,6.280544154
+205,8/18/2014 10:12,Closed,Project 678,Mollie Chang,Department Funds,BioMS,2.917428366,4.062210408
+206,8/18/2014 11:14,Closed,Project 679,Mollie Chang,Department Funds,BioMS,17.09273967,7.20679141
+207,8/18/2014 11:24,Closed,Project 680,Mollie Chang,Department Funds,BioMS,11.95538159,6.449677971
+208,8/18/2014 11:36,Closed,Project 681,Mollie Chang,Department Funds,BioMS,0.641671797,5.964150595
+209,8/18/2014 12:18,Closed,Project 682,Mollie Chang,Department Funds,BioMS,24.13962153,6.879147693
+210,8/18/2014 12:26,Closed,Project 683,Mollie Chang,Department Funds,BioMS,7.27312344,6.849501708
+211,8/18/2014 13:04,Closed,Project 684,Mollie Chang,Department Funds,BioMS,24.47054572,8.493179993
+212,8/18/2014 16:16,Closed,Project 685,Mollie Chang,Department Funds,BioMS,26.21027535,6.653947111
+213,8/19/2014 15:02,Closed,Project 686,Mollie Chang,Department Funds,BioMS,21.47982816,6.242311838
+214,8/19/2014 15:50,Closed,Project 687,Mollie Chang,Department Funds,BioMS,10.97380092,6.917830821
+215,8/20/2014 9:28,Closed,Project 688,Mollie Chang,Department Funds,BioMS,24.83074856,5.614066316
+216,8/20/2014 10:36,Closed,Project 689,Mollie Chang,Department Funds,BioMS,3.592785592,5.441771647
+217,8/20/2014 11:48,Closed,Project 690,Mollie Chang,Department Funds,BioMS,4.287641659,5.785910389
+218,8/20/2014 13:24,Closed,Project 691,Mollie Chang,Department Funds,BioMS,14.04677065,7.203693631
+219,8/20/2014 14:38,Closed,Project 692,Mollie Chang,Department Funds,BioMS,12.65552738,6.062146902
+220,8/20/2014 15:44,Closed,Project 693,Mollie Chang,Department Funds,BioMS,14.90051395,5.753493611
+221,8/21/2014 9:46,Closed,Project 694,Mollie Chang,Department Funds,BioMS,10.715387,4.298233211
+222,8/21/2014 9:50,Closed,Project 695,Mollie Chang,Department Funds,BioMS,22.83675172,8.213029367
+223,8/21/2014 13:48,Closed,Project 696,Mollie Chang,Department Funds,BioMS,28.67062301,11.12458166
+224,8/21/2014 15:42,Closed,Project 697,Mollie Chang,Department Funds,BioMS,9.045308473,6.457464647
+225,8/21/2014 15:54,Closed,Project 698,Mollie Chang,Department Funds,BioMS,18.85788832,8.267766925
+226,8/22/2014 9:58,Closed,Project 699,Mollie Chang,Department Funds,BioMS,17.66840905,5.056785464
+227,8/25/2014 16:44,Closed,Project 700,Mollie Chang,Department Funds,BioMS,10.5911538,6.5859726
+228,8/25/2014 17:04,Closed,Project 701,Mollie Chang,Department Funds,BioMS,13.66739218,7.765431796
+229,8/25/2014 17:04,Closed,Project 702,Mollie Chang,Department Funds,BioMS,3.603001543,5.457003435
+230,8/26/2014 8:56,Closed,Project 703,Mollie Chang,Department Funds,BioMS,18.09022678,6.848153231
+231,8/26/2014 12:15,Closed,Project 704,Mollie Chang,Department Funds,BioMS,19.78759935,8.343627333
+232,8/26/2014 13:57,Closed,Project 705,Mollie Chang,Department Funds,BioMS,8.282649573,5.482239689
+233,8/26/2014 14:09,Closed,Project 706,Mollie Chang,JIT,BioMS,21.12407408,8.867748525
+234,8/26/2014 16:17,Closed,Project 707,Mollie Chang,JIT,BioMS,23.1618924,7.309981357
+235,8/27/2014 9:04,Closed,Project 708,Mollie Chang,JIT,BioMS,19.24490592,8.115729212
+236,8/27/2014 10:14,Closed,Project 709,Mollie Chang,JIT,BioMS,4.48205777,4.649519107
+237,8/27/2014 10:19,Closed,Project 710,Mollie Chang,JIT,BioMS,20.77432369,9.056689335
+238,8/27/2014 11:53,Closed,Project 711,Mollie Chang,JIT,BioMS,4.933130196,6.552091091
+239,8/27/2014 15:20,Closed,Project 712,Mollie Chang,JIT,BioMS,15.99476077,4.826796851
+240,8/27/2014 16:19,Closed,Project 713,Mollie Chang,JIT,BioMS,27.44272254,9.621037985
+241,8/27/2014 16:44,Closed,Project 714,Mollie Chang,JIT,BioMS,15.74610265,6.665347751
+242,8/28/2014 9:24,Closed,Project 715,Mollie Chang,JIT,BioMS,37.04250187,9.307852433
+243,8/28/2014 11:12,Closed,Project 716,Mollie Chang,JIT,BioMS,23.29663033,7.559258893
+244,8/28/2014 15:05,Closed,Project 717,Mollie Chang,JIT,BioMS,7.824182034,5.535377585
+245,8/29/2014 10:03,Resolved,Project 718,Mollie Chang,JIT,BioMS,10.67575818,7.624708217
+246,8/29/2014 10:58,Closed,Project 719,Mollie Chang,JIT,BioMS,21.46192124,6.142284972
+247,8/29/2014 13:20,Closed,Project 720,Mollie Chang,JIT,BioMS,25.01503033,8.751628402
+248,9/2/2014 9:32,Closed,Project 721,Mollie Chang,JIT,BioMS,18.00238022,6.308013932
+249,9/2/2014 9:40,Closed,Project 722,Mollie Chang,JIT,BioMS,38.8557828,8.830778391
+250,9/2/2014 12:10,Closed,Project 723,Mollie Chang,JIT,BioMS,6.718342289,6.499234901
+251,9/2/2014 12:20,Closed,Project 724,Mollie Chang,JIT,BioMS,0.947525919,3.408340247
+252,9/2/2014 14:22,Closed,Project 725,Mollie Chang,JIT,BioMS,2.16975478,4.122923838
+253,9/2/2014 15:04,Closed,Project 726,Mollie Chang,JIT,BioMS,1.186238871,4.74157063
+254,9/3/2014 8:50,Closed,Project 727,Mollie Chang,JIT,BioMS,21.67094288,7.733266503
+255,9/3/2014 12:30,Closed,Project 728,Mollie Chang,JIT,BioMS,17.88997379,6.804621966
+256,9/3/2014 12:40,Closed,Project 729,Mollie Chang,JIT,BioMS,14.53720799,7.388193673
+257,9/3/2014 12:46,Closed,Project 730,Mollie Chang,Department Funds,BioMS,32.16603959,9.377678915
+258,9/3/2014 13:46,Closed,Project 731,Mollie Chang,Department Funds,BioMS,19.28518679,8.65881387
+259,9/3/2014 13:54,Closed,Project 732,Mollie Chang,Department Funds,BioMS,24.81569562,8.021470398
+260,9/3/2014 13:59,Closed,Project 733,Mollie Chang,Department Funds,BioMS,1.498498096,6.764094191
+261,9/3/2014 16:56,Closed,Project 734,Mollie Chang,Department Funds,BioMS,1.162226115,6.418034048
+262,9/3/2014 16:58,Closed,Project 735,Mollie Chang,Department Funds,BioMS,30.81279513,8.436257324
+263,9/4/2014 9:22,Closed,Project 736,Mollie Chang,Department Funds,BioMS,17.17612567,6.553659697
+264,9/4/2014 9:28,Closed,Project 737,Mollie Chang,Department Funds,BioMS,9.779669158,6.885996809
+265,9/4/2014 13:06,Closed,Project 738,Mollie Chang,Department Funds,BioMS,27.65420874,7.664434308
+266,9/4/2014 16:14,Closed,Project 739,Mollie Chang,Department Funds,BioMS,32.50794155,8.944475062
+267,9/5/2014 10:56,Closed,Project 740,Mollie Chang,Department Funds,BioMS,28.8818959,7.914822758
+268,9/5/2014 13:28,Closed,Project 741,Mollie Chang,Department Funds,BioMS,11.87797167,8.512074445
+269,9/5/2014 14:08,Closed,Project 742,Mollie Chang,Department Funds,BioMS,21.33486279,8.756639799
+270,9/5/2014 14:15,Closed,Project 743,Mollie Chang,Department Funds,BioMS,8.096318011,6.21921818
+271,9/5/2014 8:52,Closed,Project 848,Yeo Blackwell,Department Funds,BioMS,3.774400638,4.720439918
+272,8/22/2014 11:42,Closed,Project 914,Tobias Rodriguez,Department Funds,BioMS,0.746556387,4.439995898
+273,7/21/2014 9:40,Closed,Project 1039,Rooney Blake,Department Funds,BioMS,23.69230206,7.518072878
+274,7/30/2014 16:34,Closed,Project 1082,Octavia Simpson,Department Funds,BioMS,46.72446009,10.69113066
+275,7/14/2014 11:43,Resolved,Project 5,Nero Cooper,Department Funds,caTissue,23.59850511,7.375374664
+276,8/20/2014 13:48,Closed,Project 12,Nero Cooper,Department Funds,caTissue,21.04421109,5.572193696
+277,6/16/2014 15:30,Resolved,Project 13,Nero Cooper,Department Funds,caTissue,16.57767943,6.343815705
+278,6/18/2014 17:25,Closed,Project 14,Nero Cooper,Department Funds,caTissue,5.645695223,5.1150031
+279,7/22/2014 10:31,Closed,Project 15,Basil Bond,Department Funds,caTissue,23.43115451,8.362558124
+280,8/13/2014 15:01,Closed,Project 16,Basil Bond,Department Funds,caTissue,6.463117168,6.667877915
+281,4/30/2014 13:16,In Progress,Project 39,Tatyana Lyons,Department Funds,caTissue,10.9741732,5.339522475
+282,6/11/2014 14:44,Open,Project 55,Emily Gordon,Department Funds,caTissue,16.49490831,7.74169219
+283,6/11/2014 14:46,In Progress,Project 56,Emily Gordon,Department Funds,caTissue,21.6146936,8.52942681
+284,7/22/2014 14:16,Closed,Project 57,Emily Gordon,Department Funds,caTissue,16.1042185,8.805558141
+285,8/5/2014 9:05,Closed,Project 58,Emily Gordon,Department Funds,caTissue,6.717862336,7.586631026
+286,8/18/2014 13:25,Closed,Project 59,Emily Gordon,Department Funds,caTissue,14.62438688,6.273985369
+287,7/22/2013 9:55,Open,Project 66,Rachel Peters,Department Funds,caTissue,4.927445231,6.304355584
+288,5/22/2014 15:13,Closed,Project 75,Bree Aguilar,Department Funds,caTissue,2.818825719,6.985400893
+289,1/27/2014 9:09,Resolved,Project 154,Sara Burton,Department Funds,caTissue,35.0674512,10.70045035
+290,2/18/2015 13:46,Open,Project 156,Maxwell Shields,Department Funds,caTissue,25.13812088,7.253398974
+291,8/20/2014 14:35,Closed,Project 157,Yael Clayton,Department Funds,caTissue,28.04987065,9.451549842
+292,7/28/2014 16:58,Closed,Project 158,Joshua Mclean,Department Funds,caTissue,19.93005322,9.775972132
+293,7/24/2014 9:20,Closed,Project 167,Tallulah Whitfield,Department Funds,caTissue,12.58514427,8.752001704
+294,7/17/2014 10:35,Closed,Project 170,Warren Contreras,Department Funds,caTissue,27.70317895,9.242951075
+295,7/17/2014 19:38,Closed,Project 171,Warren Contreras,Department Funds,caTissue,11.49125905,7.525930065
+296,5/5/2014 15:37,Done,Project 172,Emily Roth,Department Funds,caTissue,19.7586628,8.212624441
+297,4/8/2014 9:16,Closed,Project 200,Cora Branch,Department Funds,caTissue,13.01372598,6.150975983
+298,6/10/2014 10:32,Closed,Project 201,Cora Branch,Department Funds,caTissue,10.34369821,7.344950707
+299,6/24/2014 16:19,Closed,Project 202,Cora Branch,Department Funds,caTissue,27.42025804,7.99345811
+300,6/24/2014 16:20,Closed,Project 203,Cora Branch,Department Funds,caTissue,27.14689718,8.169371292
+301,7/1/2014 21:54,Closed,Project 204,Cora Branch,Department Funds,caTissue,9.612645405,4.419080792
+302,7/1/2014 21:55,Closed,Project 205,Cora Branch,Department Funds,caTissue,14.58620754,5.514679165
+303,8/27/2014 12:23,Closed,Project 206,Cora Branch,Department Funds,caTissue,6.650061758,5.903464598
+304,8/27/2014 12:23,Closed,Project 207,Cora Branch,Department Funds,caTissue,9.094898583,5.317579834
+305,8/27/2014 12:24,Closed,Project 208,Cora Branch,Department Funds,caTissue,31.24200633,10.06737087
+306,8/27/2014 12:25,Closed,Project 209,Cora Branch,Department Funds,caTissue,7.661374606,5.699175168
+307,8/27/2014 12:26,Closed,Project 210,Cora Branch,Department Funds,caTissue,16.29306904,5.931534458
+308,8/27/2014 12:27,Closed,Project 211,Cora Branch,Department Funds,caTissue,24.45191204,7.664378895
+309,8/27/2014 12:28,Closed,Project 212,Cora Branch,Department Funds,caTissue,11.21924085,5.133298156
+310,8/27/2014 12:28,Closed,Project 213,Cora Branch,Department Funds,caTissue,21.90164285,6.421880098
+311,8/27/2014 12:30,Closed,Project 214,Cora Branch,Department Funds,caTissue,9.414110825,5.518303656
+312,8/27/2014 14:31,Closed,Project 215,Cora Branch,Department Funds,caTissue,14.45162164,7.326748785
+313,8/27/2014 14:32,Closed,Project 216,Cora Branch,Department Funds,caTissue,12.5840977,5.502525753
+314,9/24/2014 16:31,Closed,Project 217,Cora Branch,Department Funds,caTissue,30.14813563,9.260374845
+315,9/24/2014 16:34,Closed,Project 218,Cora Branch,Department Funds,caTissue,17.70955909,7.373499061
+316,9/24/2014 17:16,Closed,Project 219,Cora Branch,Department Funds,caTissue,13.93765767,5.572157875
+317,10/20/2014 10:29,Closed,Project 220,Cora Branch,Department Funds,caTissue,17.07996324,7.592412266
+318,10/20/2014 15:15,Closed,Project 221,Cora Branch,Department Funds,caTissue,27.65999169,9.622862205
+319,10/22/2014 14:25,Closed,Project 222,Cora Branch,Department Funds,caTissue,8.984087043,5.962876247
+320,10/22/2014 14:28,Closed,Project 223,Cora Branch,Department Funds,caTissue,11.05165162,7.889944969
+321,11/21/2014 14:03,Closed,Project 224,Cora Branch,Department Funds,caTissue,21.16458674,8.131392778
+322,11/21/2014 14:04,Closed,Project 225,Cora Branch,Department Funds,caTissue,17.02635088,7.325590373
+323,11/21/2014 14:05,Closed,Project 226,Cora Branch,Department Funds,caTissue,13.04010268,9.621525708
+324,12/22/2014 15:35,Closed,Project 227,Cora Branch,Department Funds,caTissue,14.48862203,9.331347454
+325,12/22/2014 15:36,Closed,Project 228,Cora Branch,Department Funds,caTissue,29.0311011,10.49629908
+326,12/22/2014 15:36,Closed,Project 229,Cora Branch,Department Funds,caTissue,18.76555982,6.657694135
+327,12/22/2014 15:37,Closed,Project 230,Cora Branch,Department Funds,caTissue,34.09917048,9.245210259
+328,12/22/2014 15:38,Closed,Project 231,Cora Branch,Department Funds,caTissue,8.862575071,4.68910357
+329,8/13/2014 14:37,Closed,Project 255,Eric Willis,Department Funds,caTissue,18.19360824,7.381849362
+330,4/30/2014 11:05,Closed,Project 331,Scott Lott,Department Funds,caTissue,27.96716458,6.895642269
+331,8/4/2014 10:32,Closed,Project 360,Gannon Donovan,Department Funds,caTissue,26.15859804,6.128943014
+332,9/27/2013 12:34,Open,Project 387,Sydney Austin,Department Funds,caTissue,17.27000251,5.82006417
+333,8/1/2014 9:35,Closed,Project 388,Eden Vinson,Department Funds,caTissue,30.22566076,9.200908353
+334,7/14/2014 14:07,Resolved,Project 391,Walker Klein,Department Funds,caTissue,15.41427208,5.877225076
+335,7/14/2014 14:09,Closed,Project 392,Walker Klein,Department Funds,caTissue,9.317538345,5.711925275
+336,7/14/2014 14:20,Closed,Project 393,Walker Klein,Department Funds,caTissue,0.580691489,5.809265978
+337,7/14/2014 16:07,Closed,Project 394,Walker Klein,Department Funds,caTissue,10.74268658,7.387141008
+338,7/14/2014 16:09,Closed,Project 395,Walker Klein,Department Funds,caTissue,16.35783497,7.744439165
+339,7/14/2014 16:09,Resolved,Project 396,Walker Klein,Department Funds,caTissue,3.796623538,6.000432442
+340,7/15/2014 17:26,Resolved,Project 397,Walker Klein,Department Funds,caTissue,8.188561771,6.741777588
+341,7/16/2014 16:08,Closed,Project 398,Walker Klein,Department Funds,caTissue,21.14846832,7.808277269
+342,7/17/2014 11:42,Closed,Project 399,Walker Klein,Department Funds,caTissue,0.875363464,3.848731572
+343,7/17/2014 15:06,Resolved,Project 400,Walker Klein,Department Funds,caTissue,14.2204942,7.295784003
+344,8/1/2014 12:19,Closed,Project 401,Walker Klein,Department Funds,caTissue,24.9144646,7.838853451
+345,8/7/2014 12:26,Closed,Project 402,Walker Klein,Department Funds,caTissue,29.84109568,9.754515116
+346,8/13/2014 11:32,Closed,Project 403,Walker Klein,Department Funds,caTissue,9.313706716,6.162795172
+347,8/18/2014 15:16,Open,Project 404,Walker Klein,Department Funds,caTissue,25.03773508,9.326503654
+348,8/19/2014 10:55,Resolved,Project 405,Walker Klein,Department Funds,caTissue,13.433627,6.768591683
+349,8/19/2014 14:44,Resolved,Project 406,Walker Klein,Department Funds,caTissue,27.16621552,7.797945553
+350,8/20/2014 15:20,Resolved,Project 407,Walker Klein,Department Funds,caTissue,14.93353847,5.578279134
+351,8/20/2014 15:28,Resolved,Project 408,Walker Klein,Department Funds,caTissue,2.284127392,3.529919958
+352,8/26/2014 10:59,Closed,Project 409,Walker Klein,Department Funds,caTissue,31.6752013,9.129911506
+353,8/26/2014 14:57,Open,Project 410,Walker Klein,Department Funds,caTissue,8.976762784,5.24896444
+354,8/26/2014 15:00,Open,Project 411,Walker Klein,Department Funds,caTissue,29.7984975,8.470251836
+355,8/26/2014 15:38,Open,Project 412,Walker Klein,Department Funds,caTissue,13.91314058,5.10712218
+356,8/27/2014 9:28,Open,Project 413,Walker Klein,Department Funds,caTissue,26.27705598,10.31874413
+357,8/28/2014 15:33,Open,Project 414,Walker Klein,Department Funds,caTissue,25.09471625,8.097040744
+358,10/8/2014 15:46,Open,Project 415,Walker Klein,Department Funds,caTissue,19.20858969,6.101210209
+359,10/13/2014 15:21,Closed,Project 416,Walker Klein,Department Funds,caTissue,13.66091441,4.911845975
+360,11/11/2014 15:23,Open,Project 417,Walker Klein,Department Funds,caTissue,8.980336062,5.549215313
+361,7/17/2014 9:40,Closed,Project 471,Chanda Cotton,Department Funds,caTissue,7.015377074,5.779672293
+362,5/2/2014 15:13,Resolved,Project 744,Mollie Chang,Department Funds,caTissue,15.96057617,5.908377996
+363,5/22/2014 8:26,Closed,Project 745,Mollie Chang,Department Funds,caTissue,9.084438726,4.475053091
+364,7/10/2014 16:54,Closed,Project 746,Mollie Chang,Department Funds,caTissue,14.49527236,7.849091312
+365,7/10/2014 16:56,Closed,Project 747,Mollie Chang,Department Funds,caTissue,22.15738236,9.381600038
+366,7/16/2014 12:07,Closed,Project 748,Mollie Chang,Department Funds,caTissue,12.18292283,5.653683117
+367,7/25/2014 12:22,Open,Project 749,Mollie Chang,Department Funds,caTissue,27.69646635,9.922666189
+368,7/25/2014 12:25,Open,Project 750,Mollie Chang,Department Funds,caTissue,33.98250512,8.80228265
+369,7/25/2014 15:48,Resolved,Project 751,Mollie Chang,Department Funds,caTissue,30.44677716,10.58357194
+370,8/1/2014 9:30,Closed,Project 752,Mollie Chang,Department Funds,caTissue,22.85386447,8.648010498
+371,8/4/2014 11:05,Closed,Project 753,Mollie Chang,Department Funds,caTissue,18.39287945,8.362686552
+372,8/6/2014 16:02,Open,Project 754,Mollie Chang,Department Funds,caTissue,12.13693813,5.143301991
+373,8/7/2014 13:46,Closed,Project 755,Mollie Chang,Department Funds,caTissue,24.73293506,8.88435891
+374,8/12/2014 9:28,Closed,Project 756,Mollie Chang,Department Funds,caTissue,25.28553723,8.363989778
+375,8/14/2014 16:20,Closed,Project 757,Mollie Chang,Department Funds,caTissue,3.982553185,5.769402669
+376,8/15/2014 16:02,Closed,Project 758,Mollie Chang,Department Funds,caTissue,1.809113519,6.290689997
+377,8/18/2014 9:56,Closed,Project 759,Mollie Chang,Department Funds,caTissue,14.16570895,8.145662322
+378,8/18/2014 13:32,Closed,Project 760,Mollie Chang,Department Funds,caTissue,14.50849142,7.880241437
+379,8/20/2014 14:06,Closed,Project 761,Mollie Chang,Department Funds,caTissue,22.70575067,7.586244832
+380,8/20/2014 14:08,Closed,Project 762,Mollie Chang,Department Funds,caTissue,21.93912821,7.601865512
+381,8/20/2014 14:57,Closed,Project 763,Mollie Chang,Department Funds,caTissue,11.20868489,7.041307989
+382,8/22/2014 14:03,Resolved,Project 764,Mollie Chang,Department Funds,caTissue,18.04217049,8.230013279
+383,8/26/2014 9:16,Closed,Project 765,Mollie Chang,Department Funds,caTissue,15.25026278,7.744957786
+384,8/27/2014 15:30,Closed,Project 766,Mollie Chang,Department Funds,caTissue,4.947740549,5.656183277
+385,8/28/2014 15:25,Closed,Project 767,Mollie Chang,Department Funds,caTissue,1.002916866,4.378702299
+386,8/28/2014 16:50,Closed,Project 768,Mollie Chang,Department Funds,caTissue,20.80322064,6.694195085
+387,10/13/2014 15:53,Closed,Project 769,Mollie Chang,Department Funds,caTissue,29.35679954,11.01565191
+388,3/5/2015 12:52,Open,Project 770,Mollie Chang,Department Funds,caTissue,13.7525463,6.538559524
+389,1/28/2014 9:14,Reopened,Project 802,Plato Daniel,Department Funds,caTissue,2.917265206,5.122182367
+390,8/25/2014 13:13,Closed,Project 803,Plato Daniel,Department Funds,caTissue,21.99030035,7.441045035
+391,9/5/2014 8:49,Resolved,Project 804,Plato Daniel,Department Funds,caTissue,17.96023957,8.520847933
+392,6/25/2014 13:10,Closed,Project 806,Jade Watts,Department Funds,caTissue,9.098477807,7.166692719
+393,10/31/2013 12:43,Closed,Project 812,Hector Mathews,Department Funds,caTissue,4.184327596,6.740788196
+394,5/5/2014 12:03,Open,Project 835,Deborah Silva,Department Funds,caTissue,4.654795797,6.657774441
+395,5/15/2014 10:22,Open,Project 836,Deborah Silva,Department Funds,caTissue,5.760881564,4.899621362
+396,6/20/2014 9:45,In Progress,Project 837,Deborah Silva,Department Funds,caTissue,3.411873424,5.333783292
+397,6/25/2014 9:15,Closed,Project 838,Deborah Silva,Department Funds,caTissue,15.15435096,6.060952808
+398,8/5/2014 15:31,Closed,Project 839,Deborah Silva,Department Funds,caTissue,3.374114671,3.571711451
+399,7/14/2014 15:26,Open,Project 909,Pearl Ball,Department Funds,caTissue,6.673567456,6.040781574
+400,7/30/2014 17:02,Closed,Project 1002,Uma Frye,Department Funds,caTissue,27.51329641,8.251974971
+401,7/30/2014 17:05,Closed,Project 1003,Uma Frye,JIT,caTissue,22.15119698,8.025127293
+402,5/1/2014 9:55,Closed,Project 1004,Avram Shepard,JIT,caTissue,12.12561367,6.189401081
+403,2/11/2014 9:55,Resolved,Project 1019,Flynn Wells,JIT,caTissue,2.783703348,5.499271525
+404,1/2/2014 11:20,Resolved,Project 1035,Vincent Huff,JIT,caTissue,34.46827309,8.679666078
+405,7/14/2014 12:15,Closed,Project 1040,Rooney Blake,JIT,caTissue,22.70675695,8.58452317
+406,9/17/2014 16:42,Open,Project 1041,Adrienne Bates,JIT,caTissue,24.60933192,7.020183522
+407,9/17/2014 17:11,Open,Project 1042,Adrienne Bates,JIT,caTissue,27.43871473,9.254216231
+408,9/17/2014 17:24,Open,Project 1043,Adrienne Bates,JIT,caTissue,4.658544298,5.622757211
+409,9/17/2014 17:27,Open,Project 1044,Adrienne Bates,JIT,caTissue,23.95774692,8.144937997
+410,9/17/2014 17:29,Open,Project 1045,Adrienne Bates,JIT,caTissue,19.87308278,7.629189937
+411,9/17/2014 17:34,Open,Project 1046,Adrienne Bates,JIT,caTissue,23.27873076,8.148665623
+412,9/18/2014 14:37,Open,Project 1047,Adrienne Bates,JIT,caTissue,18.22640751,7.103208921
+413,9/18/2014 14:55,Open,Project 1048,Adrienne Bates,JIT,caTissue,22.07986925,6.675632266
+414,9/18/2014 15:02,Open,Project 1049,Adrienne Bates,JIT,caTissue,0.936162716,2.487213725
+415,9/18/2014 15:13,Open,Project 1050,Adrienne Bates,JIT,caTissue,13.13007023,7.794737164
+416,9/29/2014 11:39,Closed,Project 1051,Adrienne Bates,JIT,caTissue,9.804122745,7.483447036
+417,10/1/2014 14:57,Reopened,Project 1052,Adrienne Bates,JIT,caTissue,10.34187314,5.924517806
+418,10/7/2014 9:02,Open,Project 1053,Adrienne Bates,JIT,caTissue,22.15439147,8.297165298
+419,10/8/2014 15:00,Closed,Project 1054,Adrienne Bates,JIT,caTissue,26.4739274,6.049578249
+420,11/4/2014 9:01,Open,Project 1055,Adrienne Bates,JIT,caTissue,0.418319464,6.377800557
+421,11/5/2014 16:31,Open,Project 1056,Adrienne Bates,JIT,caTissue,11.46009584,7.538326862
+422,11/6/2014 13:55,Open,Project 1057,Adrienne Bates,JIT,caTissue,17.23407522,5.768413702
+423,11/12/2014 13:26,Open,Project 1058,Adrienne Bates,JIT,caTissue,4.087407946,4.477852286
+424,12/22/2014 15:31,Closed,Project 1059,Adrienne Bates,JIT,caTissue,13.58824719,7.211197266
+425,12/22/2014 15:33,Closed,Project 1060,Adrienne Bates,NA,caTissue,4.444360566,5.51643903
+426,12/22/2014 15:34,Closed,Project 1061,Adrienne Bates,NA,caTissue,21.35583208,8.694308359
+427,12/23/2014 8:19,Closed,Project 1062,Adrienne Bates,NA,caTissue,16.00365551,5.808645202
+428,1/9/2015 14:34,Closed,Project 1063,Adrienne Bates,NA,caTissue,15.61806124,7.256498923
+429,2/6/2015 9:17,Open,Project 1064,Adrienne Bates,NA,caTissue,7.828654712,6.686099537
+430,2/18/2015 13:48,Open,Project 1065,Adrienne Bates,NA,caTissue,12.70798885,5.727903141
+431,2/27/2015 12:36,Open,Project 1066,Adrienne Bates,NA,caTissue,12.1107384,7.365356241
+432,2/26/2015 16:51,Done,Project 31,Ginger Stout,Salary Coverage,CDS (PES),14.57446576,8.330320522
+433,2/6/2015 16:46,In Progress,Project 1,Wesley Olson,JIT,CIDER,22.05833414,8.713260341
+434,4/29/2014 9:51,Waiting for End User,Project 3,Freya Schroeder,Salary Coverage,CIDER,14.2681074,6.426892036
+435,5/5/2014 15:49,Done,Project 6,Molly English,Department Funds,CIDER,8.383443494,6.599541181
+436,8/22/2014 14:16,Done,Project 7,Molly English,Department Funds,CIDER,24.64133657,10.20283422
+437,9/11/2014 15:29,Done,Project 8,Molly English,NA,CIDER,18.68037837,6.89763763
+438,10/7/2014 11:14,To Do,Project 9,Molly English,NA,CIDER,16.93506372,7.044760721
+439,10/14/2014 16:23,Done,Project 10,Molly English,NA,CIDER,25.80227096,7.876015696
+440,11/20/2014 11:40,Done,Project 11,Molly English,NA,CIDER,5.188954367,5.480407981
+441,5/7/2014 11:03,Done,Project 23,Paula Giles,JIT,CIDER,25.71778993,6.727098378
+442,9/24/2014 11:24,Waiting for End User,Project 26,Micah Brennan,JIT,CIDER,19.33440429,6.863522288
+443,11/20/2014 11:44,Done,Project 27,Micah Brennan,NA,CIDER,30.87279325,10.07728959
+444,12/16/2014 10:39,Done,Project 28,Micah Brennan,NA,CIDER,6.629176086,5.020399515
+445,1/20/2015 11:52,To Do,Project 29,Micah Brennan,NA,CIDER,3.701064598,5.238322562
+446,7/11/2014 13:34,Waiting for End User,Project 30,Melyssa Ward,JIT,CIDER,14.02740194,6.153284975
+447,9/8/2014 16:57,Done,Project 40,Tatyana Lyons,NA,CIDER,0.907564444,6.505501632
+448,10/14/2014 16:16,Done,Project 41,Tatyana Lyons,NA,CIDER,12.74685183,6.075172746
+449,11/20/2014 10:27,Done,Project 42,Tatyana Lyons,NA,CIDER,14.03288355,7.092990658
+450,12/16/2014 11:03,Done,Project 43,Tatyana Lyons,NA,CIDER,24.52904844,10.15252343
+451,5/20/2014 12:36,Done,Project 54,Seth Hobbs,NA,CIDER,29.70585147,9.451992777
+452,1/26/2015 17:39,To Do,Project 71,Zane Hatfield,JIT,CIDER,26.4899235,9.558332392
+453,11/3/2014 18:03,Waiting for End User,Project 72,Jolie Walter,NA,CIDER,4.158079498,5.651669653
+454,7/16/2014 9:58,Closed,Project 73,Austin Macdonald,NA,CIDER,15.80603555,4.959116398
+455,9/8/2014 16:24,Done,Project 74,Brady Fitzpatrick,NA,CIDER,1.032411922,6.04485582
+456,5/7/2014 12:33,Done,Project 86,Emerson James,Salary Coverage,CIDER,4.805728851,6.410437164
+457,4/25/2014 9:20,Done,Project 103,Shelly Cherry,JIT,CIDER,14.72331938,5.409571121
+458,9/8/2014 16:42,Done,Project 104,Shelly Cherry,Department Funds,CIDER,13.78242633,4.871870629
+459,7/11/2014 11:13,Closed,Project 106,Igor Garcia,Department Funds,CIDER,8.731680307,4.576320958
+460,7/17/2014 12:24,Closed,Project 107,Igor Garcia,Department Funds,CIDER,17.62349055,7.263099521
+461,7/17/2014 12:30,Closed,Project 108,Igor Garcia,Department Funds,CIDER,2.978749997,5.627834188
+462,7/17/2014 12:31,Closed,Project 109,Igor Garcia,Department Funds,CIDER,11.56659569,5.079030427
+463,7/17/2014 12:33,Closed,Project 110,Igor Garcia,Department Funds,CIDER,17.317546,7.150097705
+464,7/17/2014 12:35,Closed,Project 111,Igor Garcia,Department Funds,CIDER,31.74031747,8.054019524
+465,7/17/2014 12:36,Closed,Project 112,Igor Garcia,Department Funds,CIDER,16.13483299,5.985031627
+466,7/17/2014 14:32,Closed,Project 113,Igor Garcia,Department Funds,CIDER,8.386809294,7.025098625
+467,7/21/2014 7:54,Closed,Project 114,Igor Garcia,Department Funds,CIDER,1.57144907,4.916659015
+468,7/21/2014 9:42,Closed,Project 115,Igor Garcia,Department Funds,CIDER,5.058271576,6.719761149
+469,7/21/2014 9:57,Closed,Project 116,Igor Garcia,Department Funds,CIDER,7.541616529,6.242334205
+470,8/4/2014 12:10,Closed,Project 117,Igor Garcia,NA,CIDER,15.98483619,6.104662435
+471,9/9/2014 15:37,Done,Project 128,Tad Porter,NA,CIDER,2.98770123,6.665689049
+472,6/3/2014 15:04,Done,Project 140,Samantha Mathews,JIT,CIDER,9.943109264,5.92734859
+473,8/4/2014 10:54,Closed,Project 142,Wanda Schroeder,NA,CIDER,10.27251908,6.721665479
+474,7/21/2014 10:42,Closed,Project 152,Mark Collier,NA,CIDER,5.642066776,6.105759136
+475,8/29/2014 15:24,Closed,Project 153,Grant Campos,NA,CIDER,26.87471611,8.711155442
+476,8/29/2014 10:04,Closed,Project 155,Arsenio Campbell,NA,CIDER,29.44061011,8.094770093
+477,8/7/2014 8:30,Closed,Project 166,Reese Burns,NA,CIDER,22.25018237,6.303383516
+478,7/22/2014 14:34,Closed,Project 168,Brandon Wallace,NA,CIDER,8.264478633,5.849490352
+479,9/3/2014 10:01,Closed,Project 169,Brandon Wallace,NA,CIDER,8.824689673,6.521408455
+480,5/5/2014 15:40,To Do,Project 173,Emily Roth,NA,CIDER,19.16435827,7.579725165
+481,8/26/2014 13:02,Done,Project 174,Emily Roth,JIT,CIDER,25.74839743,9.236611161
+482,9/18/2014 9:42,Done,Project 175,Emily Roth,NA,CIDER,4.824563998,7.447529523
+483,9/25/2014 11:42,To Do,Project 176,Emily Roth,NA,CIDER,18.49516452,6.624293061
+484,11/21/2014 11:28,Done,Project 177,Emily Roth,NA,CIDER,2.364597439,4.902034416
+485,1/16/2013 15:46,Waiting for End User,Project 182,Imelda Mcgowan,Department Funds,CIDER,20.84998995,8.863312491
+486,3/7/2013 13:16,Waiting for End User,Project 183,Imelda Mcgowan,NA,CIDER,11.75437754,6.386379217
+487,5/6/2013 13:48,Done,Project 184,Imelda Mcgowan,NA,CIDER,27.99787544,8.767377852
+488,2/11/2014 7:15,Waiting for End User,Project 185,Imelda Mcgowan,Department Funds,CIDER,9.292574711,5.112525949
+489,10/13/2014 12:42,Done,Project 186,Imelda Mcgowan,NA,CIDER,30.6236433,9.697844886
+490,10/31/2014 16:38,Done,Project 187,Imelda Mcgowan,JIT,CIDER,11.35067299,4.351033932
+491,11/20/2014 10:10,Done,Project 188,Imelda Mcgowan,JIT,CIDER,18.4135748,8.193231477
+492,11/20/2014 12:21,Done,Project 189,Imelda Mcgowan,JIT,CIDER,1.747179671,4.711070659
+493,12/4/2014 8:57,Done,Project 190,Imelda Mcgowan,JIT,CIDER,11.31403661,8.01301955
+494,12/17/2014 10:22,Done,Project 191,Imelda Mcgowan,JIT,CIDER,22.28760816,6.760498906
+495,1/20/2015 13:35,Done,Project 192,Imelda Mcgowan,JIT,CIDER,18.39601794,6.64457736
+496,2/11/2015 18:30,Waiting for End User,Project 193,Imelda Mcgowan,JIT,CIDER,3.920591471,5.895825079
+497,8/20/2014 9:52,Done,Project 195,Sophia Reyes,JIT,CIDER,28.80966801,7.206964772
+498,8/27/2014 10:22,Closed,Project 197,Jasmine Yates,JIT,CIDER,2.000479997,4.875735186
+499,8/5/2014 14:06,Closed,Project 199,Aimee Vincent,JIT,CIDER,4.256839497,6.594660773
+500,7/30/2014 12:03,Closed,Project 256,Theodore Richards,JIT,CIDER,17.96147748,7.988098818
+501,7/17/2014 10:18,Closed,Project 316,Phelan Doyle,JIT,CIDER,0.958915228,4.947252771
+502,7/17/2014 12:26,Closed,Project 317,Phelan Doyle,JIT,CIDER,2.363367933,6.346933615
+503,7/17/2014 12:32,Closed,Project 318,Phelan Doyle,JIT,CIDER,16.61719399,7.021442103
+504,8/7/2014 13:58,Closed,Project 368,Judah Saunders,JIT,CIDER,33.53345946,9.641116673
+505,8/29/2014 10:16,Closed,Project 369,Judah Saunders,JIT,CIDER,2.381384988,6.751068701
+506,8/18/2014 9:20,Waiting for End User,Project 370,Cecilia Gaines,JIT,CIDER,7.616089691,5.456987761
+507,7/16/2014 13:45,Waiting for End User,Project 371,Colin Bowen,JIT,CIDER,30.15523043,8.895471796
+508,12/16/2014 10:57,Waiting for End User,Project 372,Tallulah Scott,JIT,CIDER,7.477558991,6.136868082
+509,9/8/2014 18:37,Done,Project 373,Howard Mcneil,JIT,CIDER,18.99424138,7.372730512
+510,10/14/2014 16:07,Done,Project 374,Howard Mcneil,JIT,CIDER,17.89852779,6.880358551
+511,8/22/2014 13:00,Closed,Project 375,Lilah Haley,JIT,CIDER,11.27102857,6.608018056
+512,6/27/2014 9:08,Closed,Project 376,Thomas Cain,JIT,CIDER,11.9741727,5.722055413
+513,1/5/2015 15:29,Done,Project 380,Raymond Gordon,JIT,CIDER,11.03353385,4.929456502
+514,7/17/2014 11:33,Closed,Project 385,Fitzgerald Larsen,JIT,CIDER,12.12129947,7.016519299
+515,8/14/2014 14:06,Closed,Project 386,Tucker Fulton,JIT,CIDER,16.27494232,6.743424313
+516,11/5/2014 11:27,In Progress,Project 389,Alika Mcguire,JIT,CIDER,18.31500812,6.837154984
+517,2/4/2015 16:17,Done,Project 390,Alika Mcguire,JIT,CIDER,19.29208356,7.446881067
+518,5/23/2014 10:28,To Do,Project 418,Walker Klein,JIT,CIDER,11.11527687,6.091820087
+519,6/18/2014 10:05,Closed,Project 419,Walker Klein,JIT,CIDER,44.69096651,12.3177174
+520,7/16/2014 17:12,In Progress,Project 420,Walker Klein,JIT,CIDER,7.965126514,5.606730396
+521,8/13/2014 15:51,Closed,Project 421,Walker Klein,JIT,CIDER,15.4391214,7.325800539
+522,8/28/2014 10:33,Done,Project 422,Walker Klein,JIT,CIDER,2.632031216,4.854008506
+523,9/2/2014 13:03,Done,Project 423,Walker Klein,JIT,CIDER,16.48846098,7.102102109
+524,9/18/2014 16:18,Done,Project 424,Walker Klein,JIT,CIDER,8.718299501,7.878070762
+525,11/4/2014 11:56,Done,Project 425,Walker Klein,JIT,CIDER,12.83932063,6.275992263
+526,11/13/2014 8:56,In Progress,Project 426,Walker Klein,JIT,CIDER,17.13690336,6.93331781
+527,11/13/2014 9:03,In Progress,Project 427,Walker Klein,JIT,CIDER,8.309089275,6.482020158
+528,11/13/2014 15:25,Done,Project 428,Walker Klein,JIT,CIDER,13.37638628,8.030149434
+529,11/13/2014 15:29,Done,Project 429,Walker Klein,JIT,CIDER,8.373948023,6.064242896
+530,12/16/2014 11:14,In Progress,Project 430,Walker Klein,JIT,CIDER,16.0904161,6.109086844
+531,12/19/2014 9:41,Done,Project 431,Walker Klein,JIT,CIDER,24.53746295,8.0780289
+532,1/5/2015 17:07,Done,Project 432,Walker Klein,JIT,CIDER,23.31308181,7.362113928
+533,2/5/2015 8:36,Done,Project 433,Walker Klein,JIT,CIDER,23.06721719,7.056897314
+534,2/10/2015 10:29,In Progress,Project 434,Walker Klein,JIT,CIDER,3.229645595,5.281782224
+535,7/22/2014 14:31,Closed,Project 469,Sloane Rhodes,JIT,CIDER,20.29077955,7.096155437
+536,8/13/2014 15:39,Closed,Project 472,Yeo Poole,JIT,CIDER,19.67217907,7.263923614
+537,8/19/2014 15:24,Closed,Project 473,Yeo Poole,JIT,CIDER,14.54121188,7.411446897
+538,8/26/2014 13:27,Closed,Project 474,Yeo Poole,JIT,CIDER,38.52347997,10.97328113
+539,8/15/2014 14:58,Closed,Project 476,Dakota Langley,JIT,CIDER,15.49552361,8.247763574
+540,8/12/2014 9:02,To Do,Project 771,Mollie Chang,JIT,CIDER,9.876056623,5.241218595
+541,7/18/2013 17:32,Waiting for End User,Project 808,Sebastian Suarez,NA,CIDER,13.49403893,5.592364506
+542,12/12/2014 17:51,Done,Project 809,Sebastian Suarez,NA,CIDER,11.82285696,6.249462575
+543,12/23/2014 11:53,Waiting for End User,Project 810,Sebastian Suarez,NA,CIDER,12.14550393,6.068623939
+544,1/20/2015 10:23,Done,Project 811,Sebastian Suarez,NA,CIDER,13.01062351,5.372067868
+545,7/30/2014 11:29,Done,Project 813,Farrah Mcfarland,Department Funds,CIDER,14.7647539,6.1175291
+546,10/9/2014 10:25,To Do,Project 814,Farrah Mcfarland,JIT,CIDER,15.31668511,6.004931953
+547,10/9/2014 10:44,Waiting for End User,Project 815,Farrah Mcfarland,NA,CIDER,33.08981757,10.77904014
+548,5/19/2014 14:59,Done,Project 816,Colin Brock,Department Funds,CIDER,5.044692927,5.04011597
+549,8/18/2014 10:55,Done,Project 817,Colin Brock,NA,CIDER,4.392680127,6.510377477
+550,9/10/2014 10:49,Done,Project 818,Colin Brock,NA,CIDER,11.11304178,6.466632023
+551,10/14/2014 15:51,Done,Project 819,Colin Brock,NA,CIDER,29.13846277,9.785925018
+552,11/4/2014 11:52,Done,Project 820,Colin Brock,NA,CIDER,22.05088908,7.721642099
+553,11/10/2014 16:57,Done,Project 821,Colin Brock,NA,CIDER,5.819482824,3.638858093
+554,11/20/2014 11:21,Done,Project 822,Colin Brock,NA,CIDER,12.08439097,6.439378375
+555,12/1/2014 16:57,Done,Project 823,Colin Brock,NA,CIDER,3.644142926,5.317589138
+556,12/16/2014 13:08,Done,Project 824,Colin Brock,NA,CIDER,9.273578959,5.810288743
+557,1/20/2015 11:00,Done,Project 825,Colin Brock,NA,CIDER,20.76465052,6.979480455
+558,1/22/2015 15:08,Done,Project 826,Colin Brock,NA,CIDER,15.8576933,5.321945684
+559,9/5/2014 10:46,Closed,Project 827,Lee Fuller,NA,CIDER,9.087812838,5.560634261
+560,4/10/2014 10:02,Closed,Project 828,Dominique Matthews,NA,CIDER,3.952692687,6.011836649
+561,5/12/2014 10:15,Done,Project 833,Sean Melendez,NA,CIDER,12.30365288,5.184792744
+562,9/19/2014 11:44,Done,Project 834,Ima Knapp,NA,CIDER,7.685404023,6.958407243
+563,7/22/2014 12:22,Closed,Project 854,Barbara Greene,NA,CIDER,20.77709252,8.728506001
+564,2/10/2014 18:49,In Progress,Project 856,May Russo,Salary Coverage,CIDER,23.35465931,7.192690819
+565,7/14/2014 11:17,Done,Project 857,May Russo,JIT,CIDER,25.1677466,7.162058516
+566,7/14/2014 13:58,Done,Project 858,May Russo,JIT,CIDER,18.32334766,6.712480797
+567,8/6/2014 12:52,Done,Project 859,May Russo,JIT,CIDER,25.39844396,8.796175278
+568,8/6/2014 12:53,Done,Project 860,May Russo,JIT,CIDER,25.56284754,7.645973394
+569,8/6/2014 12:54,Done,Project 861,May Russo,JIT,CIDER,27.62009879,7.634881367
+570,8/13/2014 14:33,Done,Project 862,May Russo,JIT,CIDER,12.45489067,5.032010013
+571,8/13/2014 14:35,Done,Project 863,May Russo,JIT,CIDER,21.68540292,6.434161059
+572,8/22/2014 11:37,Done,Project 864,May Russo,JIT,CIDER,29.84122364,7.8848282
+573,8/28/2014 11:25,Done,Project 865,May Russo,JIT,CIDER,6.834710889,5.047845135
+574,8/28/2014 11:26,Done,Project 866,May Russo,JIT,CIDER,12.8408752,7.428438905
+575,8/28/2014 11:27,Done,Project 867,May Russo,JIT,CIDER,16.34692545,6.417772173
+576,1/5/2015 16:54,Waiting for End User,Project 868,May Russo,JIT,CIDER,3.463743904,3.088872091
+577,8/4/2014 11:04,Closed,Project 870,George Barlow,JIT,CIDER,6.568244428,6.531761125
+578,9/8/2014 16:19,Done,Project 871,Jerome Hensley,JIT,CIDER,23.71792177,8.022546701
+579,10/14/2014 15:53,Done,Project 872,Jerome Hensley,JIT,CIDER,22.88972984,5.831671907
+580,8/4/2014 11:14,Closed,Project 897,Erasmus Holmes,JIT,CIDER,31.5818854,9.978141942
+581,8/12/2014 11:37,Closed,Project 898,Erasmus Holmes,NA,CIDER,27.11240038,8.419452056
+582,1/26/2015 18:08,In Progress,Project 913,Justin Avery,Department Funds,CIDER,6.896957729,6.535323168
+583,8/15/2014 14:58,Closed,Project 1012,Carter Oneal,NA,CIDER,12.72292441,5.980410559
+584,5/23/2014 15:21,Done,Project 1013,Raya Garrison,JIT,CIDER,22.68114135,9.047315327
+585,7/23/2014 17:40,Closed,Project 1014,Paki Farrell,NA,CIDER,15.04773604,7.132126525
+586,8/22/2014 12:58,Closed,Project 1016,Lyle Snider,NA,CIDER,28.8424209,9.099429526
+587,8/12/2014 13:28,To Do,Project 1025,Zoe Deleon,NA,CIDER,25.64925138,8.34540201
+588,8/12/2014 14:24,Done,Project 1026,Zoe Deleon,NA,CIDER,17.2416916,6.472505065
+589,7/8/2014 9:31,Closed,Project 1027,Thaddeus Rosales,NA,CIDER,16.91494731,7.489075162
+590,7/11/2014 16:07,In Progress,Project 1028,Thaddeus Rosales,Department Funds,CIDER,13.04725155,6.418687588
+591,9/9/2014 12:54,Done,Project 1029,Thaddeus Rosales,NA,CIDER,6.07693766,6.228755316
+592,11/20/2014 11:35,Done,Project 1030,Thaddeus Rosales,NA,CIDER,16.40661974,7.03005054
+593,12/16/2014 13:15,Done,Project 1031,Thaddeus Rosales,NA,CIDER,24.15026647,10.28322219
+594,1/12/2015 14:55,Done,Project 1032,Thaddeus Rosales,NA,CIDER,12.12052941,7.644794955
+595,1/13/2015 10:03,Done,Project 1033,Thaddeus Rosales,NA,CIDER,37.92005943,7.724070437
+596,1/20/2015 11:24,Done,Project 1034,Thaddeus Rosales,NA,CIDER,4.97722714,5.296310011
+597,7/15/2014 10:05,Closed,Project 1067,Rooney Blake,NA,CIDER,16.41895004,5.060980068
+598,10/3/2014 12:08,Waiting for End User,Project 1068,Adrienne Bates,NA,CIDER,6.734853378,4.208571175
+599,1/30/2015 14:31,Done,Project 1069,Adrienne Bates,NA,CIDER,2.1029026,4.505311273
+600,2/12/2015 15:16,To Do,Project 1070,Adrienne Bates,Department Funds,CIDER,13.01432441,5.619716057
+601,8/12/2014 10:27,Closed,Project 1074,Yoko Coleman,NA,CIDER,32.3637437,8.329740106
+602,8/28/2014 11:10,Closed,Project 1075,Chastity Bond,NA,CIDER,22.40188825,7.195041239
+603,5/13/2014 8:55,Waiting for End User,Project 1076,Graiden Cline,JIT,CIDER,29.32842473,9.476993438
+604,5/13/2014 8:57,Done,Project 1077,Graiden Cline,NA,CIDER,21.71527252,11.00960462
+605,10/22/2014 17:55,Done,Project 1078,Graiden Cline,Salary Coverage,CIDER,21.08772657,9.060920216
+606,11/13/2014 9:10,Done,Project 1079,Graiden Cline,Salary Coverage,CIDER,12.88771494,7.074745544
+607,11/20/2014 11:12,Done,Project 1080,Graiden Cline,Salary Coverage,CIDER,14.99561191,8.090765162
+608,12/2/2014 12:08,Done,Project 1081,Graiden Cline,Salary Coverage,CIDER,13.87607924,6.549337304
+609,9/2/2014 16:29,Closed,Project 1087,Rajah Boyd,Salary Coverage,CIDER,10.11764792,6.179365286
+610,9/3/2014 8:37,Closed,Project 1088,Rajah Boyd,NA,CIDER,17.5238179,6.241460735
+611,9/10/2014 10:18,Done,Project 1089,Rajah Boyd,Department Funds,CIDER,12.07447506,5.86931221
+612,7/21/2014 11:59,Closed,Project 1090,Jescie Cannon,NA,CIDER,12.54206357,7.112379798
+613,5/27/2014 11:31,Closed,Project 2,Athena Rivera,NA,ClinPortal,16.33033796,8.274737697
+614,8/22/2014 15:48,Completed,Project 4,Maggy Flowers,NA,ClinPortal,12.67633426,5.410596288
+615,3/6/2014 10:47,Completed,Project 17,Basil Bond,NA,ClinPortal,21.87329594,7.833476198
+616,3/6/2014 11:20,Completed,Project 18,Basil Bond,NA,ClinPortal,28.78832231,6.820778358
+617,4/17/2014 12:32,Completed,Project 19,Basil Bond,Salary Coverage,ClinPortal,4.397153527,4.271498463
+618,4/17/2014 12:33,Completed,Project 20,Basil Bond,Salary Coverage,ClinPortal,5.561369381,5.926228216
+619,5/2/2014 16:35,Completed,Project 21,Basil Bond,Salary Coverage,ClinPortal,1.534896713,5.145897563
+620,8/1/2014 16:30,Closed,Project 24,Lane Mckay,Salary Coverage,ClinPortal,17.51045919,8.038441398
+621,8/8/2014 16:03,Closed,Project 25,Lane Mckay,Salary Coverage,ClinPortal,6.761207547,6.631142955
+622,3/28/2013 9:39,Completed,Project 32,Ginger Stout,Salary Coverage,ClinPortal,19.23668411,8.037109779
+623,3/28/2013 9:45,Completed,Project 33,Ginger Stout,Salary Coverage,ClinPortal,10.9203187,7.396657325
+624,12/4/2014 9:51,Completed,Project 34,Lavinia Reed,Salary Coverage,ClinPortal,5.929696433,5.645242437
+625,12/4/2014 9:56,Completed,Project 35,Lavinia Reed,Salary Coverage,ClinPortal,7.905277753,7.368693012
+626,3/13/2014 16:32,Completed,Project 36,Xantha Pratt,Salary Coverage,ClinPortal,10.96944456,7.405463082
+627,5/9/2014 15:02,Completed,Project 37,Xantha Pratt,Salary Coverage,ClinPortal,14.30053381,5.937631879
+628,7/30/2014 9:48,Closed,Project 38,Kristen Alvarado,Salary Coverage,ClinPortal,24.91548645,7.761922297
+629,3/21/2014 14:57,Completed,Project 60,Rhoda Mejia,Salary Coverage,ClinPortal,1.322056109,4.594771423
+630,8/22/2014 16:31,Completed,Project 61,Rhoda Mejia,Salary Coverage,ClinPortal,20.86310567,8.138199901
+631,10/3/2013 9:20,Completed,Project 62,Gary Curry,Salary Coverage,ClinPortal,8.963565172,8.18298786
+632,10/3/2013 9:23,Completed,Project 63,Gary Curry,Salary Coverage,ClinPortal,8.416061714,4.906543732
+633,11/21/2014 15:28,Completed,Project 64,Gary Curry,Salary Coverage,ClinPortal,6.729748798,6.738676341
+634,6/11/2013 11:48,Completed,Project 65,Willa Potter,Salary Coverage,ClinPortal,17.73296161,7.755830104
+635,4/22/2014 9:55,Completed,Project 67,Macon Burt,Salary Coverage,ClinPortal,15.60410323,7.130737445
+636,4/22/2014 9:57,Completed,Project 68,Macon Burt,Salary Coverage,ClinPortal,3.143837297,5.702492339
+637,6/20/2014 15:36,Completed,Project 69,Macon Burt,Salary Coverage,ClinPortal,11.76724238,7.068200159
+638,7/17/2014 14:14,Closed,Project 70,Olivia Bowers,Salary Coverage,ClinPortal,20.96314713,8.0692927
+639,9/23/2013 9:32,Completed,Project 76,Rae Sweet,Salary Coverage,ClinPortal,3.734461642,4.845164345
+640,5/9/2014 10:17,Completed,Project 77,Rae Sweet,Salary Coverage,ClinPortal,8.189402631,7.497769636
+641,6/27/2014 10:10,Completed,Project 78,Rae Sweet,Salary Coverage,ClinPortal,13.91054759,6.262753172
+642,7/22/2014 12:42,Closed,Project 79,Rae Sweet,Salary Coverage,ClinPortal,10.12124122,6.037030314
+643,8/14/2014 9:40,Resolved,Project 80,Rae Sweet,Salary Coverage,ClinPortal,26.38696096,7.823754751
+644,12/9/2014 10:40,Completed,Project 81,Rae Sweet,Salary Coverage,ClinPortal,26.17554046,9.100270674
+645,12/9/2014 10:42,Completed,Project 82,Rae Sweet,Salary Coverage,ClinPortal,12.64007254,7.517022738
+646,12/9/2014 10:44,Completed,Project 83,Rae Sweet,Salary Coverage,ClinPortal,10.12722864,5.311058776
+647,12/9/2014 10:49,Completed,Project 84,Rae Sweet,Salary Coverage,ClinPortal,10.1046424,5.535251784
+648,12/15/2014 9:38,Completed,Project 85,Rae Sweet,Salary Coverage,ClinPortal,9.400491669,5.601237534
+649,10/19/2012 16:23,Completed,Project 87,Elmo Becker,Salary Coverage,ClinPortal,18.35052829,6.946601482
+650,11/6/2012 13:28,Completed,Project 88,Elmo Becker,Salary Coverage,ClinPortal,6.370692964,5.868123903
+651,9/25/2013 17:33,Completed,Project 89,Elmo Becker,Salary Coverage,ClinPortal,26.74373707,7.924332666
+652,2/20/2014 11:22,Completed,Project 90,Elmo Becker,Salary Coverage,ClinPortal,28.24611304,9.314261532
+653,3/13/2014 16:28,Completed,Project 91,Elmo Becker,Salary Coverage,ClinPortal,1.729134452,4.188248682
+654,4/4/2014 17:09,Completed,Project 92,Elmo Becker,NA,ClinPortal,22.4408993,5.870663548
+655,5/27/2014 11:51,Closed,Project 93,Elmo Becker,NA,ClinPortal,21.4532362,6.439614599
+656,5/29/2014 13:00,Completed,Project 94,Elmo Becker,NA,ClinPortal,16.64879734,7.862174631
+657,6/2/2014 11:36,Completed,Project 95,Elmo Becker,NA,ClinPortal,30.2763187,8.335580269
+658,6/30/2014 11:49,Completed,Project 96,Elmo Becker,NA,ClinPortal,7.440916645,6.062595764
+659,7/14/2014 17:05,Closed,Project 97,Elmo Becker,NA,ClinPortal,22.17323746,7.511215221
+660,7/17/2014 11:12,Closed,Project 98,Elmo Becker,NA,ClinPortal,10.30394677,6.104069758
+661,7/23/2014 12:56,Closed,Project 99,Elmo Becker,NA,ClinPortal,12.89928858,6.33258738
+662,8/15/2014 15:26,Closed,Project 100,Elmo Becker,NA,ClinPortal,34.68664424,9.788109137
+663,8/28/2014 15:20,Closed,Project 101,Elmo Becker,NA,ClinPortal,15.28728299,7.426944953
+664,8/28/2014 15:26,Closed,Project 102,Elmo Becker,NA,ClinPortal,13.13412198,6.430465339
+665,10/31/2013 15:21,Completed,Project 105,Shelly Cherry,NA,ClinPortal,15.75235564,7.61213525
+666,3/20/2014 16:56,Closed,Project 119,Karleigh Underwood,NA,ClinPortal,18.11303986,8.00710949
+667,5/22/2014 9:57,Completed,Project 120,Karleigh Underwood,NA,ClinPortal,6.949774093,5.311892409
+668,5/22/2014 9:59,Completed,Project 121,Karleigh Underwood,NA,ClinPortal,0.251147664,3.880580792
+669,5/22/2014 11:31,Closed,Project 122,Karleigh Underwood,NA,ClinPortal,7.515386222,6.263394873
+670,6/16/2014 10:49,Completed,Project 123,Karleigh Underwood,JIT,ClinPortal,2.375560823,6.505245626
+671,6/16/2014 10:54,Completed,Project 124,Karleigh Underwood,JIT,ClinPortal,17.35911401,7.965350035
+672,8/6/2014 10:15,Completed,Project 125,Karleigh Underwood,JIT,ClinPortal,14.24475784,4.596655977
+673,6/27/2014 10:26,Completed,Project 126,Edward Hamilton,JIT,ClinPortal,9.867891447,7.893611856
+674,6/27/2014 10:29,Completed,Project 127,Edward Hamilton,JIT,ClinPortal,24.73853923,7.372124222
+675,6/7/2013 7:53,Completed,Project 130,Robert Pate,JIT,ClinPortal,4.144156506,6.313392079
+676,9/25/2013 17:36,Completed,Project 131,Robert Pate,JIT,ClinPortal,14.28513706,6.316527607
+677,3/13/2014 16:35,Completed,Project 132,Robert Pate,JIT,ClinPortal,2.984209255,5.161502268
+678,3/13/2014 16:39,Completed,Project 133,Robert Pate,JIT,ClinPortal,20.27302119,6.891135688
+679,5/9/2014 10:31,Completed,Project 134,Robert Pate,JIT,ClinPortal,28.61917877,9.090150152
+680,6/27/2014 10:19,Completed,Project 135,Robert Pate,JIT,ClinPortal,17.85366961,7.317860696
+681,7/30/2014 10:20,Closed,Project 136,Robert Pate,JIT,ClinPortal,30.28441705,8.270013143
+682,8/14/2014 16:33,Completed,Project 137,Robert Pate,JIT,ClinPortal,11.51325705,5.527191099
+683,8/14/2014 16:40,Closed,Project 138,Robert Pate,JIT,ClinPortal,7.186514679,6.502170248
+684,12/4/2014 10:31,Completed,Project 139,Robert Pate,JIT,ClinPortal,15.30587593,8.035493043
+685,12/6/2013 17:00,Completed,Project 141,Herrod Wallace,JIT,ClinPortal,5.420977294,7.028037757
+686,5/9/2014 10:13,Completed,Project 143,Jaden Noble,JIT,ClinPortal,1.151369452,4.483420599
+687,5/9/2014 10:20,Completed,Project 144,Jaden Noble,JIT,ClinPortal,16.36182431,8.06164835
+688,5/30/2014 9:08,Completed,Project 145,Jaden Noble,JIT,ClinPortal,23.08097179,7.332996938
+689,11/10/2014 13:53,Completed,Project 146,Jaden Noble,JIT,ClinPortal,8.394288137,5.229813327
+690,11/17/2014 14:38,Completed,Project 147,Jaden Noble,JIT,ClinPortal,15.63242394,6.625914422
+691,12/1/2014 11:02,Completed,Project 148,Jaden Noble,JIT,ClinPortal,5.274066378,4.995582842
+692,12/9/2014 9:54,Completed,Project 149,Jaden Noble,JIT,ClinPortal,6.73799016,6.833043759
+693,12/18/2014 14:13,Completed,Project 150,Jaden Noble,JIT,ClinPortal,2.651845402,6.97137999
+694,7/18/2014 9:26,Closed,Project 151,Libby Nguyen,JIT,ClinPortal,17.24431116,8.10181632
+695,9/23/2013 9:28,Completed,Project 159,Uma Winters,JIT,ClinPortal,13.19267186,7.72273844
+696,4/17/2014 10:20,Completed,Project 160,Uma Winters,JIT,ClinPortal,6.160550352,6.943608733
+697,4/17/2014 11:08,Completed,Project 161,Uma Winters,JIT,ClinPortal,2.804401826,4.86186311
+698,4/17/2014 16:12,Completed,Project 162,Uma Winters,JIT,ClinPortal,10.01903978,7.21070825
+699,4/30/2014 12:58,Completed,Project 163,Uma Winters,JIT,ClinPortal,22.8691529,6.335946305
+700,4/30/2014 18:11,Completed,Project 164,Uma Winters,JIT,ClinPortal,18.33880007,7.453437367
+701,6/27/2014 9:58,Completed,Project 165,Uma Winters,JIT,ClinPortal,6.855174233,5.350037791
+702,10/18/2012 16:04,Completed,Project 178,Emily Roth,JIT,ClinPortal,8.110577317,3.579247847
+703,11/30/2012 10:19,Completed,Project 179,Emily Roth,JIT,ClinPortal,19.95965218,8.008801454
+704,11/20/2013 15:52,Completed,Project 180,Emily Roth,JIT,ClinPortal,2.154058382,6.029826041
+705,9/18/2014 16:30,Done,Project 181,Emily Roth,JIT,ClinPortal,17.25753153,6.827406604
+706,7/24/2014 14:18,Completed,Project 196,Sophia Reyes,JIT,ClinPortal,10.61147126,5.118042643
+707,5/13/2013 12:32,Completed,Project 198,Shafira Wiley,JIT,ClinPortal,37.63571863,11.42933029
+708,10/18/2012 13:57,Completed,Project 232,Cora Branch,JIT,ClinPortal,12.86221984,4.500865721
+709,10/18/2012 13:59,Completed,Project 233,Cora Branch,JIT,ClinPortal,15.94472814,7.524584397
+710,2/12/2014 16:44,Completed,Project 234,Cora Branch,JIT,ClinPortal,24.03903341,8.044967761
+711,3/12/2014 15:01,Completed,Project 235,Cora Branch,JIT,ClinPortal,25.91889269,8.508659226
+712,3/13/2014 16:48,Completed,Project 236,Cora Branch,JIT,ClinPortal,5.940369339,5.242453443
+713,4/4/2014 17:00,Completed,Project 237,Cora Branch,JIT,ClinPortal,16.16761933,6.675575183
+714,4/4/2014 17:04,Completed,Project 238,Cora Branch,JIT,ClinPortal,9.22283505,5.912790443
+715,4/8/2014 13:24,Completed,Project 239,Cora Branch,JIT,ClinPortal,13.18362575,7.831338052
+716,4/18/2014 12:07,Completed,Project 240,Cora Branch,JIT,ClinPortal,24.70833305,8.068948487
+717,6/6/2014 17:05,Completed,Project 241,Cora Branch,JIT,ClinPortal,22.54447592,5.994287368
+718,6/16/2014 13:40,Completed,Project 242,Cora Branch,JIT,ClinPortal,3.346281138,5.181301423
+719,6/16/2014 14:37,Completed,Project 243,Cora Branch,JIT,ClinPortal,22.6153065,9.387223237
+720,7/10/2014 14:38,Completed,Project 244,Cora Branch,JIT,ClinPortal,27.39770224,7.670357476
+721,10/13/2014 10:12,Completed,Project 245,Cora Branch,JIT,ClinPortal,28.6660195,7.723467134
+722,10/17/2014 12:15,Completed,Project 246,Cora Branch,JIT,ClinPortal,17.71389071,7.77886071
+723,10/17/2014 17:03,Completed,Project 247,Cora Branch,JIT,ClinPortal,33.66352151,8.179087887
+724,11/5/2014 14:29,Completed,Project 248,Cora Branch,JIT,ClinPortal,6.180311076,5.072645811
+725,11/6/2014 9:53,Completed,Project 249,Cora Branch,JIT,ClinPortal,22.46915134,6.797746698
+726,11/21/2014 13:34,Completed,Project 250,Cora Branch,JIT,ClinPortal,26.32888152,6.92947176
+727,12/1/2014 11:04,Completed,Project 251,Cora Branch,JIT,ClinPortal,20.72746212,7.097850619
+728,12/11/2014 14:53,Completed,Project 252,Cora Branch,JIT,ClinPortal,19.51654247,8.818538392
+729,12/19/2014 14:39,Completed,Project 253,Cora Branch,JIT,ClinPortal,12.69313521,4.976692766
+730,12/23/2014 10:30,Completed,Project 254,Cora Branch,JIT,ClinPortal,36.65642788,9.440712493
+731,1/17/2013 9:33,Completed,Project 257,Isadora Tillman,JIT,ClinPortal,9.185024081,5.9240737
+732,1/18/2013 11:43,Completed,Project 258,Isadora Tillman,JIT,ClinPortal,21.38688224,7.73313921
+733,1/21/2014 16:42,Completed,Project 259,Isadora Tillman,JIT,ClinPortal,1.288223136,5.194138068
+734,1/22/2014 10:00,Completed,Project 260,Isadora Tillman,JIT,ClinPortal,5.121667823,6.621855826
+735,2/5/2014 15:49,Completed,Project 261,Isadora Tillman,JIT,ClinPortal,9.553004798,6.701954364
+736,2/27/2014 15:55,Completed,Project 262,Isadora Tillman,JIT,ClinPortal,17.54951203,5.838737125
+737,3/3/2014 12:36,Completed,Project 263,Isadora Tillman,JIT,ClinPortal,16.01918832,7.246053728
+738,3/11/2014 15:11,Completed,Project 264,Isadora Tillman,JIT,ClinPortal,12.57182173,5.826504738
+739,3/19/2014 10:33,Completed,Project 265,Isadora Tillman,JIT,ClinPortal,15.24927569,5.645696221
+740,3/19/2014 13:40,Completed,Project 266,Isadora Tillman,JIT,ClinPortal,22.6718092,5.800160028
+741,3/28/2014 14:45,Completed,Project 267,Isadora Tillman,JIT,ClinPortal,11.01075919,4.439869929
+742,5/6/2014 15:18,Closed,Project 268,Isadora Tillman,JIT,ClinPortal,3.656942719,3.819348057
+743,5/7/2014 10:20,Closed,Project 269,Isadora Tillman,JIT,ClinPortal,35.08829789,10.3507
+744,5/7/2014 10:49,Completed,Project 270,Isadora Tillman,JIT,ClinPortal,11.68608,6.440979256
+745,5/12/2014 12:08,Closed,Project 271,Isadora Tillman,JIT,ClinPortal,29.67251592,8.495615242
+746,5/15/2014 15:42,Closed,Project 272,Kimberley Glover,JIT,ClinPortal,21.62672344,7.109634148
+747,5/20/2014 8:07,Completed,Project 273,Isadora Tillman,JIT,ClinPortal,5.007101851,6.724734341
+748,5/20/2014 8:23,Completed,Project 274,Isadora Tillman,JIT,ClinPortal,18.44490267,5.075242065
+749,5/20/2014 15:42,Closed,Project 275,Isadora Tillman,JIT,ClinPortal,10.22084906,6.964105216
+750,5/20/2014 16:22,Closed,Project 276,Isadora Tillman,JIT,ClinPortal,25.30522546,8.359043597
+751,5/23/2014 11:05,Closed,Project 277,Isadora Tillman,JIT,ClinPortal,2.28663757,4.436736634
+752,5/29/2014 13:38,Completed,Project 278,Isadora Tillman,JIT,ClinPortal,11.51019635,5.592844009
+753,7/11/2014 16:03,Closed,Project 279,Isadora Tillman,JIT,ClinPortal,19.73556411,9.671492378
+754,7/16/2014 12:16,Closed,Project 280,Isadora Tillman,JIT,ClinPortal,15.08167269,9.226870053
+755,7/17/2014 11:06,Closed,Project 281,Isadora Tillman,JIT,ClinPortal,7.293537121,6.548228688
+756,7/17/2014 11:06,Closed,Project 282,Isadora Tillman,JIT,ClinPortal,16.74488044,8.770567235
+757,7/17/2014 11:06,Closed,Project 283,Isadora Tillman,JIT,ClinPortal,32.40534492,8.834840876
+758,7/22/2014 12:16,Closed,Project 284,Isadora Tillman,JIT,ClinPortal,3.568402441,4.275194944
+759,7/30/2014 10:04,Closed,Project 285,Isadora Tillman,JIT,ClinPortal,19.4391538,7.062589138
+760,7/30/2014 10:40,Closed,Project 286,Isadora Tillman,JIT,ClinPortal,6.519014074,5.027985953
+761,7/31/2014 13:22,Closed,Project 287,Isadora Tillman,JIT,ClinPortal,21.28330328,8.522109353
+762,7/31/2014 15:20,Closed,Project 288,Isadora Tillman,JIT,ClinPortal,18.92112496,8.145273548
+763,7/31/2014 15:32,Closed,Project 289,Isadora Tillman,JIT,ClinPortal,5.323007643,4.414890228
+764,8/1/2014 11:51,Closed,Project 290,Isadora Tillman,JIT,ClinPortal,12.63589815,5.647811016
+765,8/5/2014 9:38,Closed,Project 291,Isadora Tillman,JIT,ClinPortal,13.32257934,5.818216886
+766,8/8/2014 16:05,Closed,Project 292,Isadora Tillman,JIT,ClinPortal,21.07753437,7.555264642
+767,8/11/2014 11:51,Closed,Project 293,Isadora Tillman,JIT,ClinPortal,29.58990097,9.343605433
+768,8/11/2014 11:53,Closed,Project 294,Isadora Tillman,JIT,ClinPortal,23.53496243,7.414471896
+769,8/12/2014 9:28,Closed,Project 295,Isadora Tillman,JIT,ClinPortal,13.34272216,7.80828501
+770,8/12/2014 9:28,Closed,Project 296,Isadora Tillman,JIT,ClinPortal,9.217734783,6.38403984
+771,8/14/2014 16:50,Completed,Project 297,Isadora Tillman,JIT,ClinPortal,23.9437528,7.886230216
+772,8/21/2014 13:44,Completed,Project 298,Isadora Tillman,JIT,ClinPortal,29.01439602,8.965329582
+773,8/22/2014 10:53,Completed,Project 299,Isadora Tillman,JIT,ClinPortal,15.09135537,7.429891494
+774,8/22/2014 11:01,Closed,Project 300,Isadora Tillman,JIT,ClinPortal,26.35702123,8.982142991
+775,8/25/2014 17:26,Completed,Project 301,Isadora Tillman,JIT,ClinPortal,15.1736157,6.571195524
+776,8/26/2014 16:55,Closed,Project 302,Isadora Tillman,JIT,ClinPortal,6.800219444,6.481534084
+777,9/3/2014 13:08,Closed,Project 303,Isadora Tillman,JIT,ClinPortal,16.39943984,5.532426511
+778,9/4/2014 12:14,Closed,Project 304,Isadora Tillman,NA,ClinPortal,6.960559565,6.342835766
+779,9/4/2014 17:00,Closed,Project 305,Isadora Tillman,Department Funds,ClinPortal,7.784890155,5.899285494
+780,9/4/2014 17:20,Closed,Project 306,Isadora Tillman,Department Funds,ClinPortal,2.311928837,7.113105095
+781,9/22/2014 10:55,Completed,Project 307,Isadora Tillman,Department Funds,ClinPortal,13.96765021,7.429430203
+782,9/23/2014 10:28,Completed,Project 308,Isadora Tillman,Department Funds,ClinPortal,8.99661561,4.670471199
+783,10/16/2014 15:42,Completed,Project 309,Isadora Tillman,Department Funds,ClinPortal,9.606614593,7.741719103
+784,10/24/2014 13:27,Completed,Project 310,Isadora Tillman,Department Funds,ClinPortal,16.86952306,5.8249756
+785,11/5/2014 11:38,Completed,Project 311,Isadora Tillman,Department Funds,ClinPortal,10.91134116,6.2719499
+786,11/6/2014 9:48,Completed,Project 312,Isadora Tillman,Department Funds,ClinPortal,15.0681498,7.279091208
+787,2/26/2015 11:19,Completed,Project 313,Isadora Tillman,Department Funds,ClinPortal,10.69179696,6.447234374
+788,2/26/2015 11:24,Completed,Project 314,Isadora Tillman,Department Funds,ClinPortal,11.45513247,5.636458486
+789,3/10/2015 16:42,Completed,Project 315,Isadora Tillman,Department Funds,ClinPortal,33.81279437,8.547965606
+790,10/31/2012 9:58,Completed,Project 319,Ashely Horne,Department Funds,ClinPortal,0.543868695,5.70740415
+791,7/31/2013 13:35,Completed,Project 320,Ashely Horne,Department Funds,ClinPortal,28.7254805,9.000296497
+792,2/12/2014 15:41,Completed,Project 321,Ashely Horne,Department Funds,ClinPortal,14.81079667,6.048845419
+793,8/8/2014 9:56,Closed,Project 322,Ashely Horne,Department Funds,ClinPortal,3.396425058,6.881151312
+794,8/12/2014 15:04,Closed,Project 323,Ashely Horne,Department Funds,ClinPortal,20.95211807,5.713447931
+795,8/12/2014 15:08,Completed,Project 324,Ashely Horne,Department Funds,ClinPortal,4.6940157,6.590161671
+796,8/15/2014 11:21,Closed,Project 325,Ashely Horne,Department Funds,ClinPortal,5.475519633,3.742538884
+797,8/15/2014 13:29,Completed,Project 326,Ashely Horne,Department Funds,ClinPortal,13.202805,6.057968273
+798,8/15/2014 13:31,Closed,Project 327,Ashely Horne,Department Funds,ClinPortal,9.036885031,6.188188142
+799,11/10/2014 14:11,Completed,Project 328,Ashely Horne,Department Funds,ClinPortal,9.668524985,6.368287235
+800,11/12/2014 10:48,Completed,Project 329,Ashely Horne,Department Funds,ClinPortal,4.947104186,6.552707321
+801,10/18/2012 14:00,Completed,Project 332,Scott Lott,Department Funds,ClinPortal,24.02991794,7.794201713
+802,4/23/2014 14:20,Completed,Project 333,Scott Lott,Department Funds,ClinPortal,25.26618788,7.377156559
+803,5/19/2014 10:20,Closed,Project 334,Scott Lott,Department Funds,ClinPortal,15.53030645,6.883422839
+804,5/22/2014 12:26,Closed,Project 335,Scott Lott,Department Funds,ClinPortal,13.60995211,7.495853471
+805,5/29/2014 15:00,Completed,Project 336,Scott Lott,Department Funds,ClinPortal,20.65370623,6.458221994
+806,6/16/2014 11:16,Closed,Project 337,Scott Lott,Department Funds,ClinPortal,1.518114357,5.131570006
+807,6/16/2014 12:32,Completed,Project 338,Scott Lott,Department Funds,ClinPortal,2.003732394,4.966626295
+808,6/23/2014 10:48,Completed,Project 339,Scott Lott,Department Funds,ClinPortal,19.32134023,7.998421483
+809,7/17/2014 9:14,Closed,Project 340,Scott Lott,Department Funds,ClinPortal,0.77415048,5.390751559
+810,7/17/2014 14:02,Closed,Project 341,Scott Lott,Department Funds,ClinPortal,5.568820964,6.601171808
+811,7/18/2014 10:24,Closed,Project 342,Scott Lott,Department Funds,ClinPortal,22.60773435,8.312744379
+812,7/21/2014 9:50,Closed,Project 343,Scott Lott,Department Funds,ClinPortal,3.043356521,4.243771784
+813,8/6/2014 15:42,Closed,Project 344,Scott Lott,Department Funds,ClinPortal,30.25559143,8.398097644
+814,8/11/2014 10:14,Completed,Project 345,Scott Lott,Department Funds,ClinPortal,31.3732364,9.596154948
+815,8/11/2014 10:46,Closed,Project 346,Scott Lott,Department Funds,ClinPortal,12.92768628,6.486090204
+816,8/12/2014 9:28,Closed,Project 347,Scott Lott,Department Funds,ClinPortal,20.92971013,5.920880961
+817,8/12/2014 9:28,Closed,Project 348,Scott Lott,Department Funds,ClinPortal,26.84998841,8.1972975
+818,8/12/2014 10:31,Closed,Project 349,Scott Lott,Department Funds,ClinPortal,9.952211514,4.118188897
+819,8/12/2014 15:40,Closed,Project 350,Scott Lott,Department Funds,ClinPortal,22.44547733,7.333080487
+820,8/15/2014 14:26,Closed,Project 351,Scott Lott,Department Funds,ClinPortal,21.59807352,10.06592333
+821,8/18/2014 12:52,Closed,Project 352,Scott Lott,Department Funds,ClinPortal,12.19600412,6.717497773
+822,8/25/2014 10:34,Closed,Project 353,Scott Lott,Department Funds,ClinPortal,30.88631224,9.312890152
+823,8/27/2014 17:06,Closed,Project 354,Scott Lott,Department Funds,ClinPortal,22.74608223,9.423170537
+824,8/27/2014 17:08,Closed,Project 355,Scott Lott,Department Funds,ClinPortal,22.05402507,8.991152933
+825,9/2/2014 15:14,Closed,Project 356,Scott Lott,Department Funds,ClinPortal,11.00448459,6.155559979
+826,9/4/2014 9:44,Closed,Project 357,Scott Lott,Department Funds,ClinPortal,16.30255919,8.564575239
+827,9/4/2014 16:51,Completed,Project 358,Scott Lott,Department Funds,ClinPortal,31.26425239,9.171050237
+828,10/30/2014 16:35,Completed,Project 359,Scott Lott,Department Funds,ClinPortal,27.29092211,8.147542398
+829,2/14/2013 16:58,Completed,Project 361,Gannon Donovan,Department Funds,ClinPortal,5.927706353,4.985217423
+830,11/14/2013 17:23,Completed,Project 362,Gannon Donovan,Department Funds,ClinPortal,25.30326451,9.514786696
+831,6/27/2014 14:17,Closed,Project 363,Gannon Donovan,Department Funds,ClinPortal,26.15815647,7.274528331
+832,7/1/2014 16:50,Completed,Project 364,Gannon Donovan,Department Funds,ClinPortal,25.32983387,6.873090869
+833,8/11/2014 11:42,Closed,Project 365,Gannon Donovan,Department Funds,ClinPortal,9.05147354,6.012416882
+834,8/21/2014 11:52,Closed,Project 366,Gannon Donovan,Department Funds,ClinPortal,10.05083051,6.878828253
+835,8/27/2014 15:52,Closed,Project 367,Gannon Donovan,NA,ClinPortal,25.13638215,8.193172062
+836,5/8/2013 11:23,Completed,Project 377,Wade Cochran,NA,ClinPortal,1.857466563,4.899563026
+837,6/6/2013 12:27,Completed,Project 378,Wade Cochran,NA,ClinPortal,8.120685345,5.312310759
+838,6/20/2013 11:08,Completed,Project 379,Wade Cochran,NA,ClinPortal,31.11974262,10.27406383
+839,7/25/2014 9:30,Completed,Project 381,Demetria Howe,NA,ClinPortal,12.61800596,4.854679647
+840,7/25/2014 9:32,Completed,Project 382,Demetria Howe,NA,ClinPortal,16.4296352,8.435873833
+841,8/25/2014 11:06,Completed,Project 383,Demetria Howe,NA,ClinPortal,11.8353291,6.668424702
+842,9/29/2014 14:24,Completed,Project 384,Demetria Howe,NA,ClinPortal,11.75057839,5.385322341
+843,7/14/2014 17:37,Closed,Project 435,Walker Klein,NA,ClinPortal,3.75917734,5.231593214
+844,7/15/2014 11:23,Closed,Project 436,Walker Klein,NA,ClinPortal,11.10153451,5.442689988
+845,7/25/2014 12:38,Closed,Project 437,Walker Klein,Salary Coverage,ClinPortal,13.37195494,4.073671925
+846,7/29/2014 12:56,Closed,Project 438,Walker Klein,Salary Coverage,ClinPortal,10.15268086,6.48740923
+847,7/30/2014 12:40,Closed,Project 439,Walker Klein,Salary Coverage,ClinPortal,16.81335634,5.40421484
+848,7/30/2014 14:02,Closed,Project 440,Walker Klein,Salary Coverage,ClinPortal,5.637228454,6.947072937
+849,8/4/2014 13:56,Closed,Project 441,Walker Klein,Salary Coverage,ClinPortal,25.26500085,7.037818525
+850,8/4/2014 14:12,Closed,Project 442,Walker Klein,Salary Coverage,ClinPortal,19.76455475,7.969170869
+851,8/4/2014 14:28,Closed,Project 443,Walker Klein,Salary Coverage,ClinPortal,19.98810994,7.578469329
+852,8/4/2014 14:30,Resolved,Project 444,Walker Klein,Salary Coverage,ClinPortal,15.24363793,8.891288037
+853,8/4/2014 14:30,Closed,Project 445,Walker Klein,Salary Coverage,ClinPortal,10.75488152,5.751631918
+854,8/5/2014 17:08,Closed,Project 446,Walker Klein,Salary Coverage,ClinPortal,10.01856511,4.276689164
+855,8/7/2014 10:28,Closed,Project 447,Walker Klein,Salary Coverage,ClinPortal,11.96363955,6.548376516
+856,8/7/2014 11:30,Closed,Project 448,Walker Klein,Salary Coverage,ClinPortal,5.586476742,5.21634133
+857,8/12/2014 9:28,Closed,Project 449,Walker Klein,Salary Coverage,ClinPortal,23.16341309,8.020470572
+858,8/12/2014 9:28,Closed,Project 450,Walker Klein,Salary Coverage,ClinPortal,15.71906231,7.972418222
+859,8/12/2014 9:44,Closed,Project 451,Walker Klein,Salary Coverage,ClinPortal,16.16521472,6.594444332
+860,8/13/2014 15:49,Closed,Project 452,Walker Klein,Salary Coverage,ClinPortal,0.602208048,4.529774089
+861,8/19/2014 13:10,Closed,Project 453,Walker Klein,Salary Coverage,ClinPortal,5.178436627,4.012644031
+862,8/21/2014 16:10,Closed,Project 454,Walker Klein,Salary Coverage,ClinPortal,17.15220172,8.395918111
+863,8/26/2014 14:49,Closed,Project 455,Walker Klein,Salary Coverage,ClinPortal,11.42045444,6.053478412
+864,8/29/2014 11:50,Closed,Project 456,Walker Klein,Salary Coverage,ClinPortal,22.35525376,9.016439236
+865,9/22/2014 13:58,Completed,Project 457,Walker Klein,Salary Coverage,ClinPortal,18.79413813,8.442517487
+866,9/30/2014 13:14,Completed,Project 458,Walker Klein,Salary Coverage,ClinPortal,16.71180806,6.987831603
+867,10/17/2014 14:33,Completed,Project 459,Walker Klein,Salary Coverage,ClinPortal,13.64729302,7.127004266
+868,11/7/2014 12:01,Completed,Project 460,Walker Klein,Salary Coverage,ClinPortal,11.5781226,7.877088056
+869,12/12/2014 13:25,Completed,Project 461,Walker Klein,Salary Coverage,ClinPortal,10.19750498,5.41588262
+870,1/8/2015 15:43,Completed,Project 462,Walker Klein,Salary Coverage,ClinPortal,11.65122694,6.280014311
+871,2/23/2015 10:20,In Progress,Project 463,Walker Klein,Salary Coverage,ClinPortal,15.75198333,8.080354069
+872,11/7/2013 11:03,Completed,Project 475,Josiah Barry,Salary Coverage,ClinPortal,30.36141608,8.556115946
+873,10/7/2014 17:09,Completed,Project 772,Mollie Chang,Salary Coverage,ClinPortal,8.466716465,6.508198113
+874,11/12/2014 16:21,Completed,Project 773,Mollie Chang,Salary Coverage,ClinPortal,14.63512365,6.822155363
+875,12/9/2014 11:30,Completed,Project 774,Mollie Chang,Salary Coverage,ClinPortal,21.4147781,7.164243916
+876,12/19/2014 9:39,Completed,Project 775,Mollie Chang,Salary Coverage,ClinPortal,14.58713706,6.955516727
+877,12/19/2014 15:55,Completed,Project 776,Mollie Chang,Salary Coverage,ClinPortal,37.37957188,7.690411022
+878,3/19/2013 11:04,Completed,Project 801,Piper Sherman,Salary Coverage,ClinPortal,23.57261183,7.116388403
+879,8/14/2013 16:46,Completed,Project 805,Slade Acosta,Salary Coverage,ClinPortal,21.40955986,8.677246337
+880,9/30/2013 14:00,Completed,Project 807,Lillith Austin,Salary Coverage,ClinPortal,23.23957481,7.305187241
+881,4/17/2014 10:19,Completed,Project 829,Emery Shepard,Salary Coverage,ClinPortal,4.069088608,6.589231593
+882,5/9/2014 15:14,Completed,Project 830,Emery Shepard,Salary Coverage,ClinPortal,21.92166515,7.362194325
+883,5/30/2014 9:37,Completed,Project 831,Emery Shepard,NA,ClinPortal,5.867038337,6.121953853
+884,8/14/2014 16:04,Closed,Project 832,Emery Shepard,NA,ClinPortal,4.828747215,7.168358936
+885,8/4/2014 11:55,Closed,Project 840,Deborah Silva,NA,ClinPortal,8.034302336,6.56118498
+886,1/24/2013 13:56,Completed,Project 841,Demetrius Terrell,NA,ClinPortal,17.65922023,8.056493965
+887,1/27/2014 13:22,Completed,Project 842,Demetrius Terrell,JIT,ClinPortal,0.753231297,5.268078266
+888,8/14/2014 9:34,Closed,Project 843,Demetrius Terrell,JIT,ClinPortal,10.42493212,7.742656804
+889,8/21/2014 16:14,Closed,Project 844,Demetrius Terrell,JIT,ClinPortal,28.7029404,9.172628817
+890,8/22/2014 14:04,Closed,Project 845,Demetrius Terrell,JIT,ClinPortal,12.3102614,6.265056231
+891,9/3/2014 10:29,Completed,Project 846,Demetrius Terrell,JIT,ClinPortal,27.27793817,10.30107921
+892,9/3/2014 10:30,Completed,Project 847,Demetrius Terrell,JIT,ClinPortal,18.06028337,7.247620053
+893,1/31/2014 16:03,Closed,Project 849,Yeo Blackwell,JIT,ClinPortal,28.59253193,9.876410447
+894,3/11/2013 12:22,Completed,Project 850,Kyra Sweeney,JIT,ClinPortal,9.959014623,5.357630105
+895,12/3/2013 14:53,Completed,Project 851,Kyra Sweeney,JIT,ClinPortal,24.86890523,7.053699005
+896,5/20/2014 14:54,Closed,Project 869,Ivory Terry,JIT,ClinPortal,1.218637642,6.027594048
+897,7/25/2014 9:35,Completed,Project 874,Kylee David,JIT,ClinPortal,17.46219642,5.795657987
+898,7/25/2014 9:36,Completed,Project 875,Kylee David,JIT,ClinPortal,14.43954608,5.757216341
+899,8/21/2014 14:27,Completed,Project 876,Kylee David,JIT,ClinPortal,19.21757565,9.554419105
+900,9/3/2014 13:14,Closed,Project 877,Kylee David,JIT,ClinPortal,1.272663645,4.723407958
+901,12/9/2014 10:25,Completed,Project 878,Kylee David,JIT,ClinPortal,14.13617837,6.908384999
+902,12/9/2014 10:36,Completed,Project 879,Kylee David,JIT,ClinPortal,6.103776579,5.929337233
+903,12/22/2014 15:28,Completed,Project 880,Kylee David,JIT,ClinPortal,20.41366114,8.21095154
+904,2/12/2013 12:42,Completed,Project 881,Lydia Mendoza,JIT,ClinPortal,15.81267823,9.055721662
+905,3/21/2013 15:23,Completed,Project 882,Lydia Mendoza,JIT,ClinPortal,16.25561071,8.159288965
+906,3/27/2013 13:49,Completed,Project 883,Lydia Mendoza,JIT,ClinPortal,8.701915838,6.151522521
+907,6/17/2013 16:37,Completed,Project 884,Lydia Mendoza,JIT,ClinPortal,22.55924238,6.563378131
+908,4/22/2014 10:00,Completed,Project 885,Lydia Mendoza,JIT,ClinPortal,19.36190809,8.259842828
+909,4/28/2014 10:41,Completed,Project 886,Lydia Mendoza,JIT,ClinPortal,19.75156981,8.081106847
+910,4/30/2014 12:56,Completed,Project 887,Lydia Mendoza,JIT,ClinPortal,31.54478038,8.931206835
+911,4/30/2014 18:05,Completed,Project 888,Lydia Mendoza,JIT,ClinPortal,11.5714108,7.253149562
+912,6/20/2014 9:32,Completed,Project 889,Lydia Mendoza,JIT,ClinPortal,6.96942722,6.030770771
+913,8/21/2014 14:56,Completed,Project 890,Lydia Mendoza,JIT,ClinPortal,13.05419586,5.290009174
+914,12/9/2014 10:01,Completed,Project 891,Christian Doyle,JIT,ClinPortal,2.358951466,6.77332618
+915,12/9/2014 10:11,Completed,Project 892,Christian Doyle,JIT,ClinPortal,16.20332278,6.764791593
+916,12/31/2014 10:13,Completed,Project 893,Christian Doyle,JIT,ClinPortal,12.89692007,6.901790479
+917,9/10/2013 15:17,Completed,Project 894,Heidi Combs,JIT,ClinPortal,24.14777039,8.761288219
+918,7/18/2014 9:24,Closed,Project 895,Heidi Combs,JIT,ClinPortal,4.659065207,5.932424168
+919,3/6/2014 11:15,Completed,Project 899,April Ball,JIT,ClinPortal,26.11116796,9.276544699
+920,3/6/2014 11:16,Completed,Project 900,April Ball,JIT,ClinPortal,14.03480677,6.578801183
+921,3/6/2014 11:20,Completed,Project 901,April Ball,JIT,ClinPortal,16.80712146,6.19017899
+922,3/6/2014 11:22,Completed,Project 902,April Ball,JIT,ClinPortal,1.839552003,4.658131535
+923,3/11/2014 10:31,Completed,Project 903,April Ball,JIT,ClinPortal,0.160707361,6.19456946
+924,3/11/2014 10:33,Completed,Project 904,April Ball,JIT,ClinPortal,21.55667045,8.878347042
+925,3/24/2014 15:19,Completed,Project 905,April Ball,JIT,ClinPortal,18.57964118,7.675615696
+926,3/24/2014 15:22,Completed,Project 906,April Ball,JIT,ClinPortal,12.9395567,6.82751257
+927,7/10/2013 16:35,Completed,Project 907,Donna Cline,JIT,ClinPortal,14.02931993,6.924897857
+928,10/9/2012 14:36,Completed,Project 910,Pearl Ball,JIT,ClinPortal,7.505504492,5.739407366
+929,3/11/2013 15:53,Completed,Project 911,Pearl Ball,JIT,ClinPortal,11.79160787,7.634251605
+930,8/12/2014 9:28,Closed,Project 912,Pearl Ball,JIT,ClinPortal,17.69587948,8.624386186
+931,7/3/2013 10:54,Completed,Project 915,Tobias Rodriguez,JIT,ClinPortal,34.06560607,10.3710768
+932,8/20/2014 13:30,Closed,Project 916,Tobias Rodriguez,JIT,ClinPortal,13.08241257,8.816133431
+933,8/21/2014 11:36,Closed,Project 917,Tobias Rodriguez,JIT,ClinPortal,4.328099669,4.201488608
+934,8/27/2014 12:24,Closed,Project 918,Tobias Rodriguez,JIT,ClinPortal,0.023702876,2.39351632
+935,10/1/2014 16:23,Completed,Project 919,Tobias Rodriguez,JIT,ClinPortal,15.84890985,5.774001261
+936,11/1/2012 16:13,Completed,Project 1005,Avram Shepard,JIT,ClinPortal,3.831601624,5.910320032
+937,3/26/2013 13:14,Completed,Project 1006,Avram Shepard,JIT,ClinPortal,11.68943727,6.246167364
+938,5/20/2013 12:03,Pending Billing,Project 1007,Avram Shepard,JIT,ClinPortal,20.56132811,7.56399472
+939,6/26/2013 14:37,Completed,Project 1008,Avram Shepard,JIT,ClinPortal,19.54885161,5.854319371
+940,11/15/2013 14:45,Completed,Project 1009,Avram Shepard,JIT,ClinPortal,3.792194669,5.096938534
+941,3/26/2014 9:49,Completed,Project 1010,Avram Shepard,JIT,ClinPortal,17.06655271,9.264080515
+942,7/17/2014 14:22,Closed,Project 1011,Avram Shepard,JIT,ClinPortal,24.69863946,8.030715574
+943,12/13/2012 9:55,Completed,Project 1017,Blake Fleming,JIT,ClinPortal,3.44199895,3.826497483
+944,12/13/2012 11:12,Completed,Project 1018,Leslie Mueller,JIT,ClinPortal,23.79448707,7.665570661
+945,1/24/2014 13:41,Completed,Project 1020,Thane Summers,NA,ClinPortal,4.797891944,6.706779133
+946,3/13/2014 16:41,Completed,Project 1021,Thane Summers,NA,ClinPortal,18.13052165,6.613185629
+947,7/3/2014 11:24,Closed,Project 1022,Thane Summers,NA,ClinPortal,16.77519737,6.885967641
+948,7/16/2014 14:52,Closed,Project 1023,Thane Summers,NA,ClinPortal,7.705322882,6.616472705
+949,11/14/2013 17:42,Completed,Project 1024,Colby Glass,NA,ClinPortal,16.65081675,7.010966082
+950,8/29/2013 12:48,Completed,Project 1036,Ivy Church,NA,ClinPortal,6.712058786,5.737833508
+951,7/25/2014 13:24,Closed,Project 1037,Ivy Church,NA,ClinPortal,14.71908019,6.820789898
+952,7/28/2014 14:40,Resolved,Project 1038,Ivy Church,NA,ClinPortal,13.82350455,6.210799865
+953,7/22/2014 14:48,Closed,Project 1071,Rooney Blake,Department Funds,ClinPortal,6.062144618,5.390357815
+954,9/23/2014 14:18,Completed,Project 1072,Adrienne Bates,Department Funds,ClinPortal,19.37017014,7.340278642
+955,11/3/2014 15:43,Completed,Project 1073,Adrienne Bates,Department Funds,ClinPortal,0.229499785,3.834316055
+956,9/23/2014 14:01,Completed,Project 1083,Howard Chapman,Department Funds,ClinPortal,23.63785261,7.143655368
+957,9/23/2014 14:07,Completed,Project 1084,Howard Chapman,Department Funds,ClinPortal,5.790695321,3.808003702
+958,8/20/2013 12:30,Completed,Project 777,Mollie Chang,Department Funds,CPTAC,10.4156018,7.017655922
+959,7/2/2014 16:21,Closed,Project 778,Mollie Chang,Department Funds,CPTAC,9.596280048,5.739627616
+960,7/9/2014 16:09,Closed,Project 779,Mollie Chang,Department Funds,CPTAC,22.08903336,9.367150717
+961,7/14/2014 11:21,Closed,Project 780,Mollie Chang,Department Funds,CPTAC,0.127995375,6.796328874
+962,7/16/2014 12:48,Closed,Project 781,Mollie Chang,Department Funds,CPTAC,13.54726641,7.775364743
+963,7/18/2014 17:10,Closed,Project 782,Mollie Chang,Department Funds,CPTAC,13.28924548,6.933026645
+964,8/4/2014 15:14,Closed,Project 783,Mollie Chang,Department Funds,CPTAC,5.293912714,6.582464269
+965,8/4/2014 17:08,Closed,Project 784,Mollie Chang,Department Funds,CPTAC,39.03091606,8.616224646
+966,8/4/2014 17:14,Closed,Project 785,Mollie Chang,Department Funds,CPTAC,4.242338729,4.197708827
+967,8/4/2014 17:16,Closed,Project 786,Mollie Chang,Department Funds,CPTAC,30.63946867,8.352705169
+968,8/5/2014 10:00,Closed,Project 787,Mollie Chang,Department Funds,CPTAC,27.29666505,7.071589557
+969,8/13/2014 12:55,Closed,Project 788,Mollie Chang,Department Funds,CPTAC,12.17019686,8.196009115
+970,8/13/2014 14:35,Closed,Project 789,Mollie Chang,Department Funds,CPTAC,1.639057805,5.430413439
+971,8/15/2014 9:40,Closed,Project 790,Mollie Chang,Department Funds,CPTAC,17.45730729,7.542018206
+972,8/19/2014 14:50,Closed,Project 791,Mollie Chang,Department Funds,CPTAC,32.4517801,7.652141507
+973,8/20/2014 16:04,Closed,Project 792,Mollie Chang,Department Funds,CPTAC,8.874211772,5.482430393
+974,8/21/2014 14:58,Closed,Project 793,Mollie Chang,Department Funds,CPTAC,9.905425583,4.820288444
+975,9/4/2014 10:32,Closed,Project 794,Mollie Chang,Department Funds,CPTAC,5.396916313,5.084856899
+976,9/4/2014 11:58,Closed,Project 795,Mollie Chang,Department Funds,CPTAC,6.727839517,5.136609414
+977,9/4/2014 12:06,Closed,Project 796,Mollie Chang,Department Funds,CPTAC,7.573816647,6.393439788
+978,9/4/2014 14:08,Closed,Project 797,Mollie Chang,Department Funds,CPTAC,2.305833121,4.400247269
+979,9/5/2014 12:58,Closed,Project 798,Mollie Chang,Department Funds,CPTAC,1.869042545,3.323397821
+980,11/14/2014 16:05,Completed,Project 799,Mollie Chang,Department Funds,CPTAC,4.699400998,6.260449321
+981,7/10/2014 16:33,Closed,Project 45,Elvis Daniels,Department Funds,HealthStreet,10.10781736,6.341845199
+982,7/21/2014 13:46,Resolved,Project 46,Elvis Daniels,Department Funds,HealthStreet,19.85560681,6.838470327
+983,7/24/2014 12:28,Closed,Project 47,Elvis Daniels,Department Funds,HealthStreet,25.25284211,9.064665124
+984,7/29/2014 11:58,Closed,Project 48,Elvis Daniels,Department Funds,HealthStreet,13.10754485,7.42013835
+985,8/4/2014 16:22,Closed,Project 49,Elvis Daniels,Department Funds,HealthStreet,10.95118968,5.968685733
+986,8/4/2014 16:46,Closed,Project 50,Elvis Daniels,Department Funds,HealthStreet,23.69500973,7.719172011
+987,8/12/2014 14:56,Closed,Project 51,Elvis Daniels,Department Funds,HealthStreet,16.5570283,6.596692578
+988,8/12/2014 16:32,Closed,Project 52,Elvis Daniels,Department Funds,HealthStreet,7.982177128,4.3300483
+989,8/19/2014 10:04,Closed,Project 53,Elvis Daniels,Department Funds,HealthStreet,2.357313953,5.346334101
+990,10/20/2014 11:13,In Progress,Project 22,Wynne Higgins,Department Funds,Other,23.25887519,8.636384217
+991,8/8/2014 12:23,Waiting for End User,Project 129,Tad Porter,Department Funds,Other,7.167061251,6.253380598
+992,1/13/2014 16:24,Done,Project 464,Walker Klein,Department Funds,Other,20.59853804,8.130216338
+993,10/14/2014 12:28,Waiting for End User,Project 465,Walker Klein,Department Funds,Other,11.34628669,7.948719105
+994,1/22/2015 15:51,In Progress,Project 466,Walker Klein,Department Funds,Other,14.58838317,5.684904477
+995,2/10/2015 14:36,To Do,Project 467,Walker Klein,Department Funds,Other,16.54318236,6.594769576
+996,11/12/2014 12:06,In Progress,Project 852,Melinda Bradley,Department Funds,Other,20.17293126,9.972919134
+997,1/20/2015 13:14,Done,Project 853,Melinda Bradley,Department Funds,Other,28.68401113,7.922266635
+998,4/17/2014 15:33,Done,Project 873,Jerome Hensley,Department Funds,Other,10.69836624,6.656683887
+999,9/3/2014 9:46,Closed,Project 468,Walker Klein,Department Funds,RPR-ClinPortal,10.58279565,4.80248509
+1000,7/22/2014 10:12,Closed,Project 800,Mollie Chang,Department Funds,RPR-ClinPortal,13.58208818,7.312723254
+1001,7/15/2014 11:19,Closed,Project 855,Illana Briggs,Department Funds,RPR-ClinPortal,26.86058593,9.656523863
+1002,7/8/2014 10:01,Closed,Project 923,Tobias Rodriguez,Department Funds,RPR-ClinPortal,12.16408613,7.597732615
+1003,7/9/2014 15:51,Closed,Project 924,Tobias Rodriguez,Department Funds,RPR-ClinPortal,25.98978397,7.652231389
+1004,7/14/2014 10:59,Closed,Project 925,Tobias Rodriguez,Department Funds,RPR-ClinPortal,12.49424077,5.641056623
+1005,7/14/2014 11:43,Closed,Project 926,Tobias Rodriguez,Department Funds,RPR-ClinPortal,0.405393656,4.628004421
+1006,7/14/2014 16:19,Closed,Project 927,Tobias Rodriguez,Department Funds,RPR-ClinPortal,16.9492731,7.754350513
+1007,7/15/2014 9:29,Closed,Project 928,Tobias Rodriguez,Department Funds,RPR-ClinPortal,16.12657139,8.268205911
+1008,7/15/2014 12:59,Closed,Project 929,Tobias Rodriguez,Department Funds,RPR-ClinPortal,15.25480029,7.418013928
+1009,7/15/2014 16:21,Closed,Project 930,Tobias Rodriguez,Department Funds,RPR-ClinPortal,10.33047883,4.292666325
+1010,7/16/2014 11:28,Closed,Project 931,Tobias Rodriguez,Department Funds,RPR-ClinPortal,11.32646349,7.129663505
+1011,7/16/2014 13:04,Closed,Project 932,Tobias Rodriguez,Department Funds,RPR-ClinPortal,21.84121135,8.424514941
+1012,7/16/2014 13:52,Closed,Project 933,Tobias Rodriguez,Department Funds,RPR-ClinPortal,18.73821544,7.745705294
+1013,7/16/2014 14:28,Closed,Project 934,Tobias Rodriguez,Department Funds,RPR-ClinPortal,15.43763954,7.555838096
+1014,7/18/2014 10:26,Closed,Project 935,Tobias Rodriguez,Department Funds,RPR-ClinPortal,19.30926652,7.54137583
+1015,7/18/2014 10:58,Closed,Project 936,Tobias Rodriguez,Department Funds,RPR-ClinPortal,17.80517326,8.030893917
+1016,7/18/2014 15:22,Closed,Project 937,Tobias Rodriguez,Department Funds,RPR-ClinPortal,2.365600352,6.579870698
+1017,7/21/2014 10:56,Closed,Project 938,Tobias Rodriguez,Department Funds,RPR-ClinPortal,28.77701501,8.845510013
+1018,7/21/2014 13:26,Closed,Project 939,Tobias Rodriguez,Department Funds,RPR-ClinPortal,3.846974384,4.225617569
+1019,7/21/2014 15:46,Closed,Project 940,Tobias Rodriguez,Department Funds,RPR-ClinPortal,17.95020533,6.42140042
+1020,7/22/2014 12:16,Closed,Project 941,Tobias Rodriguez,Department Funds,RPR-ClinPortal,19.08718741,7.661460452
+1021,7/24/2014 9:18,Closed,Project 942,Tobias Rodriguez,Department Funds,RPR-ClinPortal,22.2059749,8.252428379
+1022,7/25/2014 15:46,Closed,Project 943,Tobias Rodriguez,Department Funds,RPR-ClinPortal,19.33649918,7.122393998
+1023,7/28/2014 13:06,Closed,Project 944,Tobias Rodriguez,Department Funds,RPR-ClinPortal,18.90609685,6.837069559
+1024,7/28/2014 13:18,Closed,Project 945,Tobias Rodriguez,Department Funds,RPR-ClinPortal,20.32562606,7.627889235
+1025,7/28/2014 13:18,Closed,Project 946,Tobias Rodriguez,Department Funds,RPR-ClinPortal,10.17733547,6.737037339
+1026,7/28/2014 13:20,Closed,Project 947,Tobias Rodriguez,Department Funds,RPR-ClinPortal,3.840327279,2.986140916
+1027,7/28/2014 13:34,Closed,Project 948,Tobias Rodriguez,Department Funds,RPR-ClinPortal,18.12302444,7.02065436
+1028,7/28/2014 15:30,Closed,Project 949,Tobias Rodriguez,Department Funds,RPR-ClinPortal,2.13710977,4.871054821
+1029,7/29/2014 9:22,Closed,Project 950,Tobias Rodriguez,Department Funds,RPR-ClinPortal,16.3402817,6.136540205
+1030,7/29/2014 13:38,Closed,Project 951,Tobias Rodriguez,Department Funds,RPR-ClinPortal,28.61054813,7.28937825
+1031,7/30/2014 11:40,Closed,Project 952,Tobias Rodriguez,Department Funds,RPR-ClinPortal,2.339095165,5.400211847
+1032,7/30/2014 15:11,Closed,Project 953,Tobias Rodriguez,Department Funds,RPR-ClinPortal,20.38338388,7.486786495
+1033,7/31/2014 9:12,Closed,Project 954,Tobias Rodriguez,Department Funds,RPR-ClinPortal,15.36575339,8.010001326
+1034,7/31/2014 9:20,Closed,Project 955,Tobias Rodriguez,Department Funds,RPR-ClinPortal,19.51945919,7.40336151
+1035,7/31/2014 13:36,Closed,Project 956,Tobias Rodriguez,Department Funds,RPR-ClinPortal,16.8248532,7.942375732
+1036,7/31/2014 13:58,Closed,Project 957,Tobias Rodriguez,Department Funds,RPR-ClinPortal,24.42233844,9.767802265
+1037,8/1/2014 16:46,Closed,Project 958,Tobias Rodriguez,Department Funds,RPR-ClinPortal,3.171889338,4.228091606
+1038,8/4/2014 9:38,Closed,Project 959,Tobias Rodriguez,Department Funds,RPR-ClinPortal,3.847756131,5.556669604
+1039,8/4/2014 9:46,Closed,Project 960,Tobias Rodriguez,Department Funds,RPR-ClinPortal,3.703193762,4.888110139
+1040,8/4/2014 10:46,Closed,Project 961,Tobias Rodriguez,Department Funds,RPR-ClinPortal,11.85395912,7.523883441
+1041,8/4/2014 11:28,Closed,Project 962,Tobias Rodriguez,Department Funds,RPR-ClinPortal,11.75212982,5.78235456
+1042,8/4/2014 11:28,Closed,Project 963,Tobias Rodriguez,Department Funds,RPR-ClinPortal,6.067382731,6.237201039
+1043,8/4/2014 13:10,Resolved,Project 964,Tobias Rodriguez,Department Funds,RPR-ClinPortal,30.72796637,7.309295045
+1044,8/4/2014 16:24,Closed,Project 965,Tobias Rodriguez,Department Funds,RPR-ClinPortal,1.478018789,3.932090967
+1045,8/4/2014 16:24,Closed,Project 966,Tobias Rodriguez,Department Funds,RPR-ClinPortal,24.65915031,8.319960773
+1046,8/5/2014 9:31,Closed,Project 967,Tobias Rodriguez,Department Funds,RPR-ClinPortal,42.42707542,11.76378959
+1047,8/5/2014 14:56,Closed,Project 968,Tobias Rodriguez,Department Funds,RPR-ClinPortal,27.89401357,8.989926747
+1048,8/6/2014 9:20,Closed,Project 969,Tobias Rodriguez,Department Funds,RPR-ClinPortal,11.93327748,7.641106522
+1049,8/6/2014 12:54,Closed,Project 970,Tobias Rodriguez,Department Funds,RPR-ClinPortal,18.40458767,7.503720239
+1050,8/6/2014 15:46,Closed,Project 971,Tobias Rodriguez,Department Funds,RPR-ClinPortal,17.19264088,8.854585434
+1051,8/7/2014 9:26,Closed,Project 972,Tobias Rodriguez,Department Funds,RPR-ClinPortal,21.04360947,7.239099421
+1052,8/7/2014 9:32,Resolved,Project 973,Tobias Rodriguez,Department Funds,RPR-ClinPortal,13.84196208,5.860307263
+1053,8/7/2014 11:32,Closed,Project 974,Tobias Rodriguez,Department Funds,RPR-ClinPortal,16.10150094,6.95188666
+1054,8/7/2014 12:04,Closed,Project 975,Tobias Rodriguez,Department Funds,RPR-ClinPortal,23.8658085,7.616084437
+1055,8/8/2014 9:22,Closed,Project 976,Tobias Rodriguez,Department Funds,RPR-ClinPortal,17.24942461,6.912519288
+1056,8/8/2014 9:40,Closed,Project 977,Tobias Rodriguez,Department Funds,RPR-ClinPortal,21.7886004,6.045771167
+1057,8/8/2014 11:36,Closed,Project 978,Tobias Rodriguez,Department Funds,RPR-ClinPortal,11.36543375,7.120148257
+1058,8/8/2014 16:12,Closed,Project 979,Tobias Rodriguez,Department Funds,RPR-ClinPortal,18.96806396,6.837961779
+1059,8/12/2014 9:28,Closed,Project 980,Tobias Rodriguez,Department Funds,RPR-ClinPortal,32.0091671,8.405404749
+1060,8/12/2014 9:28,Closed,Project 981,Tobias Rodriguez,Department Funds,RPR-ClinPortal,5.404088474,5.007027843
+1061,8/12/2014 9:28,Closed,Project 982,Tobias Rodriguez,Department Funds,RPR-ClinPortal,8.052087414,7.42029279
+1062,8/12/2014 11:10,Closed,Project 983,Tobias Rodriguez,Department Funds,RPR-ClinPortal,14.8878033,7.133489097
+1063,8/12/2014 13:18,Resolved,Project 984,Tobias Rodriguez,Department Funds,RPR-ClinPortal,31.43631013,9.420865845
+1064,8/13/2014 12:01,Closed,Project 985,Tobias Rodriguez,Department Funds,RPR-ClinPortal,9.625283212,8.729080175
+1065,8/14/2014 16:06,Closed,Project 986,Tobias Rodriguez,Department Funds,RPR-ClinPortal,24.1244269,7.260286253
+1066,8/15/2014 15:00,Closed,Project 987,Tobias Rodriguez,Department Funds,RPR-ClinPortal,14.042399,5.041580685
+1067,8/19/2014 12:00,Closed,Project 988,Tobias Rodriguez,NA,RPR-ClinPortal,7.874082614,6.098572408
+1068,8/22/2014 11:20,Closed,Project 989,Tobias Rodriguez,NA,RPR-ClinPortal,19.43671284,7.723008968
+1069,8/22/2014 15:30,Closed,Project 990,Tobias Rodriguez,NA,RPR-ClinPortal,6.453946483,5.293663531
+1070,8/25/2014 13:14,Closed,Project 991,Tobias Rodriguez,NA,RPR-ClinPortal,25.32043336,6.770546116
+1071,8/26/2014 9:26,Closed,Project 992,Tobias Rodriguez,NA,RPR-ClinPortal,29.13277898,8.167839182
+1072,8/26/2014 9:52,Resolved,Project 993,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,25.18759369,6.693779924
+1073,8/28/2014 12:44,Closed,Project 994,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,11.63287218,7.133181682
+1074,8/28/2014 15:28,Closed,Project 995,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,12.7679993,6.324771901
+1075,8/29/2014 9:24,Closed,Project 996,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,28.34350335,9.491117863
+1076,8/29/2014 14:58,Closed,Project 997,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,20.21288081,6.42971244
+1077,9/2/2014 15:32,Closed,Project 998,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,26.63946792,8.733285189
+1078,9/3/2014 9:52,Closed,Project 999,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,7.863985977,5.348865039
+1079,9/4/2014 11:00,Closed,Project 1000,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,12.3775953,7.694308264
+1080,9/4/2014 12:50,Closed,Project 1001,Tobias Rodriguez,Salary Coverage,RPR-ClinPortal,3.259997926,6.017052071
+1081,9/2/2014 9:42,Closed,Project 1085,Linda Shaffer,Salary Coverage,RPR-ClinPortal,16.06129048,6.928032352
+1082,9/2/2014 11:10,Resolved,Project 1086,Linda Shaffer,Salary Coverage,RPR-ClinPortal,4.022726116,6.164815083
