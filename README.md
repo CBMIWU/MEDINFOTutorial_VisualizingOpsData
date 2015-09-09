@@ -15,6 +15,8 @@ All licenses are included inside the Licenses folder.
 
 This repository contains R scripts, exercise solutions, demo dashboard files and PDF version of the slides used in the tutorial at MEDINFO 2015 in São Paulo, Brazil on Thursday, August 20, 2015. All the files will be uploaded by 8/20/2015. If you have any questions please contact one of the presenters (Kanstantsyia(at)pathology.wustl.edu).
 
+**Video tutorials** for hands-on exercises are published on Youtube: https://www.youtube.com/playlist?list=PLUnVYHPi_VhIWdy87x-tmF1w_zA7grvKZ
+
 The R scripts and demo dashboard can be run inside RStudio, however you must have all the necessary R packages installed. To run the demo dashboard, download the dashboard folder with all the included files, and run any of the R files inside RStudio.
 
 ### Tutorial Prerequisites
